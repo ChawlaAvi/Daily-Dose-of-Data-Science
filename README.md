@@ -80,6 +80,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Lesser-known Feature of Pickle Files |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pickle-Multiple-Dump.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-pickle-files)| 
 | Specify Loops and Runs In %%timeit|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Change-Loops-in-Timeit.ipynb) | [🔗](https://avichawla.substack.com/p/specify-loops-and-runs-in-timeit)| 
 | Don't Use time.time() To Measure Execution Time|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Dont-Use-Time.Time.ipynb) | [🔗](https://avichawla.substack.com/p/dont-use-timetime-to-measure-execution)| 
 |Import Your Python Package as a Module |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Import-Package-As-Module.ipynb) | [🔗](https://avichawla.substack.com/p/import-your-python-package-as-a-module)| 
@@ -88,6 +89,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |Use Slotted Class To Improve Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Slotted-Classes.ipynb) | [🔗](https://avichawla.substack.com/p/use-slotted-class-to-improve-your)| 
 | Using Dictionaries In Place of If-conditions|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/dict-vs-ifelse.ipynb) | [🔗](https://avichawla.substack.com/p/using-dictionaries-in-place-of-if)| 
 |In Defense of Match-case Statements in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/match-case.ipynb) | [🔗](https://avichawla.substack.com/p/in-defense-of-match-case-statements)| 
+
 
 ## Plotting
 
