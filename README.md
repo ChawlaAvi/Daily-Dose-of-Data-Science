@@ -80,6 +80,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Make a Class Object Behave Like a Function |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Make-Class-Callable.ipynb) | [🔗](https://avichawla.substack.com/p/make-a-class-object-behave-like-a)| 
 | Lesser-known Feature of Pickle Files |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pickle-Multiple-Dump.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-pickle-files)| 
 | Specify Loops and Runs In %%timeit|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Change-Loops-in-Timeit.ipynb) | [🔗](https://avichawla.substack.com/p/specify-loops-and-runs-in-timeit)| 
 | Don't Use time.time() To Measure Execution Time|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Dont-Use-Time.Time.ipynb) | [🔗](https://avichawla.substack.com/p/dont-use-timetime-to-measure-execution)| 
