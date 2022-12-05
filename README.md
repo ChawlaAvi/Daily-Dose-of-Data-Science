@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|A No-code Tool To Understand Your Data Quickly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Data-Report.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-tool-to-understand-your)| 
 |Display Progress Bar With Apply() in Pandas|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Apply%20-%20Progress%20Bar.ipynb) | [🔗](https://avichawla.substack.com/p/display-progress-bar-with-apply-in)| 
 |Supercharge value_counts() Method in Pandas With Sidetable|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Better-Value_Counts-Method.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-value_counts-method-in)| 
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
