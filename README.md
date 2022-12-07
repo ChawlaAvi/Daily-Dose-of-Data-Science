@@ -83,6 +83,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Performance Comparison of Python 3.11 and Python 3.10 |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-3.11-Benchmark.ipynb) | [🔗](https://avichawla.substack.com/p/performance-comparison-of-python)|
 | Why 256 is 256 But 257 is not 257? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Comparing-Integer-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/why-256-is-256-but-257-is-not-257)|
 | Make a Class Object Behave Like a Function |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Make-Class-Callable.ipynb) | [🔗](https://avichawla.substack.com/p/make-a-class-object-behave-like-a)| 
 | Lesser-known Feature of Pickle Files |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pickle-Multiple-Dump.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-pickle-files)| 
@@ -161,7 +162,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
 | Don't use print() to debug your code.|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/Icecream.ipynb) | [🔗](https://avichawla.substack.com/p/dont-use-print-to-debug-your-code)| [Medium](https://medium.com/towards-data-science/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a)
-|Inspect Program Flow with IceCream |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/Inspect-Flow.ipynb) | [🔗](https://avichawla.substack.com/p/inspect-program-flow-with-icecream)| 
+|Inspect Program Flow with IceCream |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/Inspect-Flow.ipynb) | [🔗](https://avichawla.substack.com/p/inspect-program-flow-with-icecream)| [Medium](https://medium.com/towards-data-science/introducing-icecream-never-use-print-to-debug-your-python-code-again-d8f2e5719f8a)
 |Lesser-known Feature of f-strings in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/f-string-print-var-name.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-f-strings)| 
 
 ## Missing Data
