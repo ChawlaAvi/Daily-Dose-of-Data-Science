@@ -8,7 +8,7 @@
 
 This repository is a collection of all the code snippets presented in my publication. If you want to receive these tips in your mailbox daily, you can subscribe to [my Substack newsletter](https://avichawla.substack.com). 
 
-## Run These Code Snippets in Your Local Machine
+## Run These Code Snippets on Your Local Machine
 
 To download the tips listed here, you can clone this repo.
 ```bash
