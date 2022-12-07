@@ -66,8 +66,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-|View Documentation in Jupyter Notebook
- |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
+|View Documentation in Jupyter Notebook|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
 |Get Notified When Jupyter Cell Has Executed |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Cell-Notification.ipynb) | [🔗](https://avichawla.substack.com/p/get-notified-when-jupyter-cell-has)| 
 |Clear Cell Output In Jupyter Notebook During Run-time |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Clear-Cell-Output.ipynb) | [🔗](https://avichawla.substack.com/p/clear-cell-output-in-jupyter-notebook)| 
 | CodeSquire: The AI Coding Assistant You Should Use Over GitHub Copilot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/CodeSquire-AI-code-completion.ipynb) | [🔗](https://avichawla.substack.com/p/codesquire-the-ai-coding-assistant)| 
