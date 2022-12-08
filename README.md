@@ -8,7 +8,7 @@
 
 This repository is a collection of all the code snippets presented in my publication. If you want to receive these tips in your mailbox daily, you can subscribe to [my Substack newsletter](https://avichawla.substack.com). 
 
-## Run These Code Snippets in Your Local Machine
+## Run These Code Snippets on Your Local Machine
 
 To download the tips listed here, you can clone this repo.
 ```bash
@@ -115,6 +115,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Don't Print NumPy Arrays! Use Lovely-NumPy Instead |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Lovely-Numpy.ipynb) | [🔗](https://avichawla.substack.com/p/dont-print-numpy-arrays-use-lovely)|
 |Polynomial Linear Regression with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/LinearReg%20NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-with)| 
 
 ## Memory Optimization
