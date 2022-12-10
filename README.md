@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
 |A No-code Tool To Understand Your Data Quickly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Data-Report.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-tool-to-understand-your)| 
 |Display Progress Bar With Apply() in Pandas|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Apply%20-%20Progress%20Bar.ipynb) | [🔗](https://avichawla.substack.com/p/display-progress-bar-with-apply-in)| 
 |Supercharge value_counts() Method in Pandas With Sidetable|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Better-Value_Counts-Method.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-value_counts-method-in)| 
@@ -144,6 +145,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
 | Don't Create Conditional Columns in Pandas with Apply|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Conditional-Columns.ipynb) | [🔗](https://avichawla.substack.com/p/dont-create-conditional-columns-in)| 
 | Why you should not dump DataFrames to a CSV|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Dont-Dump-To-CSV.ipynb) | [🔗](https://avichawla.substack.com/p/why-you-should-not-dump-dataframes)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 |Parallelize Pandas Apply() With Swifter |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Faster-Apply-With-Swifter%20.ipynb) | [🔗](https://avichawla.substack.com/p/parallelize-pandas-apply-with-swifter)| 
