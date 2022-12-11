@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Indicator.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-the-merge)|
 |The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
 |A No-code Tool To Understand Your Data Quickly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Data-Report.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-tool-to-understand-your)| 
 |Display Progress Bar With Apply() in Pandas|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Apply%20-%20Progress%20Bar.ipynb) | [🔗](https://avichawla.substack.com/p/display-progress-bar-with-apply-in)| 
