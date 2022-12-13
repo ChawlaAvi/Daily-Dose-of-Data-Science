@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 |Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Indicator.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-the-merge)|
 |The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
 |A No-code Tool To Understand Your Data Quickly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Data-Report.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-tool-to-understand-your)| 
@@ -123,6 +124,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Memory Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 | Define the Correct DataType for Categorical Columns|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Categorical-Datatype.ipynb) | [🔗](https://avichawla.substack.com/p/define-the-correct-datatype-for-categorical)| [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
 |Datatype For Handling Missing Valued Columns in Pandas | [🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Missing%20Data/Sparse%20Datatype.ipynb) |[🔗](https://avichawla.substack.com/p/datatype-for-handling-missing-valued) | [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
 |Save Memory with Python Generators |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Memory%20Optimization/Generators.ipynb) | [🔗](https://avichawla.substack.com/p/save-memory-with-python-generators)| 
@@ -147,6 +149,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 |The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
 | Don't Create Conditional Columns in Pandas with Apply|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Conditional-Columns.ipynb) | [🔗](https://avichawla.substack.com/p/dont-create-conditional-columns-in)| 
 | Why you should not dump DataFrames to a CSV|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Dont-Dump-To-CSV.ipynb) | [🔗](https://avichawla.substack.com/p/why-you-should-not-dump-dataframes)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
