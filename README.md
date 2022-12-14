@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Three Lesser-known Tips For Reading a CSV File Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/3-Read-CSV-Features.ipynb) | [🔗](https://avichawla.substack.com/p/three-lesser-known-tips-for-reading)|
 |The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 |Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Indicator.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-the-merge)|
 |The Best Way to Use Apply() in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-way-to-use-apply-in-pandas)|
