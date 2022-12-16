@@ -86,6 +86,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| DotMap: A Better Alternative to Python Dictionary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/DotMap-Better-Dictionary.ipynb) | [🔗](https://avichawla.substack.com/p/dotmap-a-better-alternative-to-dict)|
 | Prevent Wild Imports With __all__ in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Save-Wild-imports.ipynb) | [🔗](https://avichawla.substack.com/p/prevent-wild-imports-with-__all__)|
 | Performance Comparison of Python 3.11 and Python 3.10 |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-3.11-Benchmark.ipynb) | [🔗](https://avichawla.substack.com/p/performance-comparison-of-python)|
 | Why 256 is 256 But 257 is not 257? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Comparing-Integer-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/why-256-is-256-but-257-is-not-257)|
