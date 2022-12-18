@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|When You Should Not Use the head() Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/nsmallest-and-nlargest.ipynb) | [🔗](https://avichawla.substack.com/p/nsmallest-and-nlargest)|
 |Three Lesser-known Tips For Reading a CSV File Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/3-Read-CSV-Features.ipynb) | [🔗](https://avichawla.substack.com/p/three-lesser-known-tips-for-reading)|
 |The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 |Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Indicator.ipynb) | [🔗](https://avichawla.substack.com/p/lesser-known-feature-of-the-merge)|
@@ -86,6 +87,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Simplify Your Functions With Partial Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/partial-functions.ipynb) | [🔗](https://avichawla.substack.com/p/partial-functions)|
 | DotMap: A Better Alternative to Python Dictionary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/DotMap-Better-Dictionary.ipynb) | [🔗](https://avichawla.substack.com/p/dotmap-a-better-alternative-to-dict)|
 | Prevent Wild Imports With __all__ in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Save-Wild-imports.ipynb) | [🔗](https://avichawla.substack.com/p/prevent-wild-imports-with-__all__)|
 | Performance Comparison of Python 3.11 and Python 3.10 |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-3.11-Benchmark.ipynb) | [🔗](https://avichawla.substack.com/p/performance-comparison-of-python)|
