@@ -87,6 +87,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| __Post_init__: Add Attributes To A Dataclass Post Initialization |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/dataclass-post-init.ipynb) | [🔗](https://avichawla.substack.com/p/dataclass-post-init)|
 | Simplify Your Functions With Partial Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/partial-functions.ipynb) | [🔗](https://avichawla.substack.com/p/partial-functions)|
 | DotMap: A Better Alternative to Python Dictionary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/DotMap-Better-Dictionary.ipynb) | [🔗](https://avichawla.substack.com/p/dotmap-a-better-alternative-to-dict)|
 | Prevent Wild Imports With __all__ in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Save-Wild-imports.ipynb) | [🔗](https://avichawla.substack.com/p/prevent-wild-imports-with-__all__)|
