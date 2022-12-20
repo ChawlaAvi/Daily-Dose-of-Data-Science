@@ -213,4 +213,5 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)|
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
