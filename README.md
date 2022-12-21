@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Run SQL in Jupyter To Analyze A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/SQL-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/sql-in-jupyter)|
 |When You Should Not Use the head() Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/nsmallest-and-nlargest.ipynb) | [🔗](https://avichawla.substack.com/p/nsmallest-and-nlargest)|
 |Three Lesser-known Tips For Reading a CSV File Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/3-Read-CSV-Features.ipynb) | [🔗](https://avichawla.substack.com/p/three-lesser-known-tips-for-reading)|
 |The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
