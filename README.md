@@ -125,6 +125,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Difference Between Dot and Matmul in NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Dot-and-Matmul.ipynb) | [🔗](https://avichawla.substack.com/p/dot-and-matmul-difference)|
 |Don't Print NumPy Arrays! Use Lovely-NumPy Instead |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Lovely-Numpy.ipynb) | [🔗](https://avichawla.substack.com/p/dont-print-numpy-arrays-use-lovely)|
 |Polynomial Linear Regression with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/LinearReg%20NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-with)| 
 
