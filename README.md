@@ -39,6 +39,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Lesser-Known Feature of Apply Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Apply-DataFrame-Output.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-apply-method)|
+| Create Pandas DataFrame from Dataclass |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pandas-df-From-Dataclass.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-df-from-dataclass)|
 |Run SQL in Jupyter To Analyze A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/SQL-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/sql-in-jupyter)|
 |When You Should Not Use the head() Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/nsmallest-and-nlargest.ipynb) | [🔗](https://avichawla.substack.com/p/nsmallest-and-nlargest)|
 |Three Lesser-known Tips For Reading a CSV File Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/3-Read-CSV-Features.ipynb) | [🔗](https://avichawla.substack.com/p/three-lesser-known-tips-for-reading)|
@@ -88,6 +90,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Hide Attributes While Printing A Dataclass Object |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/hide-dataclass-attributes.ipynb) | [🔗](https://avichawla.substack.com/p/hide-dataclass-attributes)|
 | List : Tuple :: Set : ? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/frozenset.ipynb) | [🔗](https://avichawla.substack.com/p/frozenset)|
 | __Post_init__: Add Attributes To A Dataclass Post Initialization |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/dataclass-post-init.ipynb) | [🔗](https://avichawla.substack.com/p/dataclass-post-init)|
 | Simplify Your Functions With Partial Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/partial-functions.ipynb) | [🔗](https://avichawla.substack.com/p/partial-functions)|
@@ -126,6 +129,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|An Elegant Way To Perform Matrix Multiplication |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Matrix-Multiplcation-Operator.ipynb) | [🔗](https://avichawla.substack.com/p/an-elegant-way-to-perform-matrix)|
 |Difference Between Dot and Matmul in NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Dot-and-Matmul.ipynb) | [🔗](https://avichawla.substack.com/p/dot-and-matmul-difference)|
 |Don't Print NumPy Arrays! Use Lovely-NumPy Instead |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Lovely-Numpy.ipynb) | [🔗](https://avichawla.substack.com/p/dont-print-numpy-arrays-use-lovely)|
 |Polynomial Linear Regression with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/LinearReg%20NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-with)| 
