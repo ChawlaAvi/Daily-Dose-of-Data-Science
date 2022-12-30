@@ -90,6 +90,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| What Are Class Methods and When To Use Them? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/class-methods.ipynb) | [🔗](https://avichawla.substack.com/p/what-are-class-methods-and-when-to)|
 | Hide Attributes While Printing A Dataclass Object |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/hide-dataclass-attributes.ipynb) | [🔗](https://avichawla.substack.com/p/hide-dataclass-attributes)|
 | List : Tuple :: Set : ? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/frozenset.ipynb) | [🔗](https://avichawla.substack.com/p/frozenset)|
 | __Post_init__: Add Attributes To A Dataclass Post Initialization |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/dataclass-post-init.ipynb) | [🔗](https://avichawla.substack.com/p/dataclass-post-init)|
