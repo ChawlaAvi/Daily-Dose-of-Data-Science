@@ -147,6 +147,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Debugging Made Easy With PySnooper| [🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/pysnooper-debugging.ipynb) | [🔗](https://avichawla.substack.com/p/debugging-made-easy-with-pysnooper)|
 | Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
@@ -209,6 +210,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
 | Build Baseline Models Effortlessly With Sklearn|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Baseline-Model.ipynb) | [🔗](https://avichawla.substack.com/p/build-baseline-models-effortlessly)| 
