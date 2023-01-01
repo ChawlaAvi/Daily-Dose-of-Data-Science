@@ -39,8 +39,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| A Lesser-Known Feature of Apply Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Apply-DataFrame-Output.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-apply-method)|
-| Create Pandas DataFrame from Dataclass |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pandas-df-From-Dataclass.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-df-from-dataclass)|
+| Speed-up Pandas Apply 5x with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Apply-With-Numpy-Select.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-pandas-apply-5x-with-numpy)|
+| A Lesser-Known Feature of Apply Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Apply-DataFrame-Output.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-apply-method)|
+| Create Pandas DataFrame from Dataclass |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-df-From-Dataclass.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-df-from-dataclass)|
 |Run SQL in Jupyter To Analyze A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/SQL-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/sql-in-jupyter)|
 |When You Should Not Use the head() Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/nsmallest-and-nlargest.ipynb) | [🔗](https://avichawla.substack.com/p/nsmallest-and-nlargest)|
 |Three Lesser-known Tips For Reading a CSV File Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/3-Read-CSV-Features.ipynb) | [🔗](https://avichawla.substack.com/p/three-lesser-known-tips-for-reading)|
