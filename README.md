@@ -116,14 +116,15 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-|Elegantly Plot the Decision Boundary of a Classifier |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Classifier%20Decision%20Boundary.ipynb) | [🔗](https://avichawla.substack.com/p/elegantly-plot-the-decision-boundary)| 
-|Dot Plot: A Potential Alternative to Bar Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Dot-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/dot-plot-a-potential-alternative)| 
+| Create A Racing Bar Chart In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Race-Bar-Chart.ipynb) | [🔗](https://avichawla.substack.com/p/create-a-racing-bar-chart-in-python)|
+| Elegantly Plot the Decision Boundary of a Classifier |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Classifier%20Decision%20Boundary.ipynb) | [🔗](https://avichawla.substack.com/p/elegantly-plot-the-decision-boundary)| 
+| Dot Plot: A Potential Alternative to Bar Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Dot-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/dot-plot-a-potential-alternative)| 
 | Hexbin Plots As A Richer Alternative to Scatter Plots|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/HexBins.ipynb) | [🔗](https://avichawla.substack.com/p/hexbin-plots-as-a-richer-alternative)| 
 | Enrich Your Notebook With Interactive Controls|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Interactive-Controls.ipynb) | [🔗](https://avichawla.substack.com/p/enrich-your-notebook-with-interactive)| 
-|Regression Plot Made Easy with Plotly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotly%20Regression%20Plot.ipynb) | [🔗](https://avichawla.substack.com/p/regression-plot-made-easy-with-plotly)| 
+| Regression Plot Made Easy with Plotly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotly%20Regression%20Plot.ipynb) | [🔗](https://avichawla.substack.com/p/regression-plot-made-easy-with-plotly)| 
 | Pretty Plotting With Pandas|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotly-Backend-in-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/pretty-plotting-with-pandas)| 
-|Polynomial Linear Regression Plot Made Easy With Seaborn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Poly-LR-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-plot)| 
-|Analyse Flow Data With Sankey Diagrams |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Sankey-Flow-Diagram.ipynb) | [🔗](https://avichawla.substack.com/p/analyse-flow-data-with-sankey-diagrams)| 
+| Polynomial Linear Regression Plot Made Easy With Seaborn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Poly-LR-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-plot)| 
+| Analyse Flow Data With Sankey Diagrams |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Sankey-Flow-Diagram.ipynb) | [🔗](https://avichawla.substack.com/p/analyse-flow-data-with-sankey-diagrams)| 
 | Waterfall Charts: A Better Alternative to Line/Bar Plot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Waterfall-Charts.ipynb) | [🔗](https://avichawla.substack.com/p/waterfall-charts-a-better-alternative)| 
 
 
