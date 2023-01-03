@@ -116,6 +116,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Visualizing Google Search Trends of 2022 using Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/FacetGrid.ipynb) | [🔗](https://avichawla.substack.com/p/visualizing-google-search-trends)|
 | Create A Racing Bar Chart In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Race-Bar-Chart.ipynb) | [🔗](https://avichawla.substack.com/p/create-a-racing-bar-chart-in-python)|
 | Elegantly Plot the Decision Boundary of a Classifier |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Classifier%20Decision%20Boundary.ipynb) | [🔗](https://avichawla.substack.com/p/elegantly-plot-the-decision-boundary)| 
 | Dot Plot: A Potential Alternative to Bar Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Dot-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/dot-plot-a-potential-alternative)| 
