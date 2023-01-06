@@ -185,6 +185,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Sklearn
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Build Baseline Models Effortlessly With Sklearn|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Baseline-Model.ipynb) | [🔗](https://avichawla.substack.com/p/build-baseline-models-effortlessly)| 
 |Polynomial Linear Regression with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg%20NumPy%20vs%20Sklearn.ipynb) | [🔗](https://avichawla.substack.com/p/polynomial-linear-regression-with)| 
@@ -216,6 +217,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
 | A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
@@ -235,5 +237,5 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-|Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)|
+|Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)| [Medium](https://medium.com/@avi_chawla/1f43593e480a)
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
