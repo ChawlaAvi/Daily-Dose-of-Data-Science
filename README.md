@@ -76,6 +76,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Coolest Jupyter Notebook Hack |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Retrieve-Output-Three-Ways.ipynb) | [🔗](https://avichawla.substack.com/p/the-coolest-jupyter-notebook-hack)| 
 |View Documentation in Jupyter Notebook|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
 |Get Notified When Jupyter Cell Has Executed |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Cell-Notification.ipynb) | [🔗](https://avichawla.substack.com/p/get-notified-when-jupyter-cell-has)| 
 |Clear Cell Output In Jupyter Notebook During Run-time |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Clear-Cell-Output.ipynb) | [🔗](https://avichawla.substack.com/p/clear-cell-output-in-jupyter-notebook)| 
