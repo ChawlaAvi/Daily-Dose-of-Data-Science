@@ -93,6 +93,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Make Dot Notation More Powerful in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Powerful-Dot-Notation.ipynb) | [🔗](https://avichawla.substack.com/p/make-dot-notation-more-powerful-in)|
 | An Elegant Way To Perform Shutdown Tasks in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/atexit-register-decorator.ipynb) | [🔗](https://avichawla.substack.com/p/an-elegant-way-to-perform-shutdown)|
 | What Are Class Methods and When To Use Them? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/class-methods.ipynb) | [🔗](https://avichawla.substack.com/p/what-are-class-methods-and-when-to)|
 | Hide Attributes While Printing A Dataclass Object |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/hide-dataclass-attributes.ipynb) | [🔗](https://avichawla.substack.com/p/hide-dataclass-attributes)|
