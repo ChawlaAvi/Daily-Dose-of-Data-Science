@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| 70x Faster Pandas By Changing Just One Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/70x-Faster-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/70x-faster-pandas-by-changing-just)|
 | Reduce Memory Usage Of A Pandas DataFrame By 90% |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Optimize-Datatype.ipynb) | [🔗](https://avichawla.substack.com/p/reduce-memory-usage-of-a-pandas-dataframe)| [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
 | Speed-up Pandas Apply 5x with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Apply-With-Numpy-Select.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-pandas-apply-5x-with-numpy)|
 | A Lesser-Known Feature of Apply Method In Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Apply-DataFrame-Output.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-apply-method)|
@@ -147,6 +148,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Memory Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| 70x Faster Pandas By Changing Just One Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Memory%20Optimization/70x-Faster-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/70x-faster-pandas-by-changing-just)|
 | Reduce Memory Usage Of A Pandas DataFrame By 90% |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Memory%20Optimization/Pandas-Optimize-Datatype.ipynb) | [🔗](https://avichawla.substack.com/p/reduce-memory-usage-of-a-pandas-dataframe)| [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
 |The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
 | Define the Correct DataType for Categorical Columns|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Categorical-Datatype.ipynb) | [🔗](https://avichawla.substack.com/p/define-the-correct-datatype-for-categorical)| [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
