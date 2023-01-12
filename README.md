@@ -121,6 +121,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Python One-Liner To Create Sketchy Hand-drawn Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/xkcd-style-plots.ipynb) | [🔗](https://avichawla.substack.com/p/python-one-liner-to-create-sketchy)|
 | Create a Moving Bubbles Chart in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Moving-Bubbles.ipynb) | [🔗](https://avichawla.substack.com/p/create-a-moving-bubbles-chart-in)|
 | Visualizing Google Search Trends of 2022 using Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/FacetGrid.ipynb) | [🔗](https://avichawla.substack.com/p/visualizing-google-search-trends)|
 | Create A Racing Bar Chart In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Race-Bar-Chart.ipynb) | [🔗](https://avichawla.substack.com/p/create-a-racing-bar-chart-in-python)|
