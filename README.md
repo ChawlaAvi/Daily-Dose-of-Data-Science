@@ -39,6 +39,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
 | 70x Faster Pandas By Changing Just One Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/70x-Faster-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/70x-faster-pandas-by-changing-just)|
 | Reduce Memory Usage Of A Pandas DataFrame By 90% |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Optimize-Datatype.ipynb) | [🔗](https://avichawla.substack.com/p/reduce-memory-usage-of-a-pandas-dataframe)| [Medium](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
 | Speed-up Pandas Apply 5x with NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Apply-With-Numpy-Select.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-pandas-apply-5x-with-numpy)|
@@ -159,6 +160,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
 | A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Debugging Made Easy With PySnooper| [🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/pysnooper-debugging.ipynb) | [🔗](https://avichawla.substack.com/p/debugging-made-easy-with-pysnooper)|
