@@ -78,6 +78,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
 | The Coolest Jupyter Notebook Hack |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Retrieve-Output-Three-Ways.ipynb) | [🔗](https://avichawla.substack.com/p/the-coolest-jupyter-notebook-hack)| 
 |View Documentation in Jupyter Notebook|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
 |Get Notified When Jupyter Cell Has Executed |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Cell-Notification.ipynb) | [🔗](https://avichawla.substack.com/p/get-notified-when-jupyter-cell-has)| 
@@ -160,6 +161,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
 | Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
 | A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
