@@ -195,6 +195,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Sklearn
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-Synthetic-Data.ipynb) | [🔗](https://avichawla.substack.com/p/sklearn-one-line-to-generate-synthetic)|
 | Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Build Baseline Models Effortlessly With Sklearn|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Baseline-Model.ipynb) | [🔗](https://avichawla.substack.com/p/build-baseline-models-effortlessly)| 
