@@ -33,9 +33,10 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 14. [Statistics](#statistics)
 15. [Testing](#testing)
 16. [Terminal](#terminal)
+17. [Documents](#documents)
 
 
-# Pandas
+## Pandas
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
@@ -250,3 +251,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |--|:--:|:--:|:--:|
 |Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)| [Medium](https://medium.com/@avi_chawla/1f43593e480a)
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
+
+## Documents
+|Title | Document | Substack | Article
+|--|:--:|:--:|:--:|
+|30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
