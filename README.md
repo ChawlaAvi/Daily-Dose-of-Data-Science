@@ -258,4 +258,5 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Documents
 |Title | Document | Substack | Article
 |--|:--:|:--:|:--:|
+|10 Automated EDA Tools That Will Save You Hours Of (Tedious) Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/10%20Automated%20EDA%20Tools.pdf) | [🔗](https://avichawla.substack.com/p/10-automated-eda-tools-that-will)|
 |30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
