@@ -124,6 +124,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Calendar Map As A Richer Alternative to Line Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Calendar-Map.ipynb) | [🔗](https://avichawla.substack.com/p/calendar-map-as-a-richer-alternative)|
 | Density Plot As A Richer Alternative to Scatter Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Density-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/density-plot-as-a-richer-alternative)|
 | Python One-Liner To Create Sketchy Hand-drawn Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/xkcd-style-plots.ipynb) | [🔗](https://avichawla.substack.com/p/python-one-liner-to-create-sketchy)|
 | Create a Moving Bubbles Chart in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Moving-Bubbles.ipynb) | [🔗](https://avichawla.substack.com/p/create-a-moving-bubbles-chart-in)|
