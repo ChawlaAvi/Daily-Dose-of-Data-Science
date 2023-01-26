@@ -259,6 +259,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|How Would You Identify Fuzzy Duplicates In A Data With Million Records? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Data-Deduplication.ipynb) | [🔗](https://avichawla.substack.com/p/how-would-you-identify-fuzzy-duplicates)|
 |Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)| [Medium](https://medium.com/@avi_chawla/1f43593e480a)
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
 
