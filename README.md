@@ -167,6 +167,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| This GUI Tool Can Possibly Save You Hours Of Manual Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Visual-Python.ipynb) | [🔗](https://avichawla.substack.com/p/this-gui-tool-can-possibly-save-you)|
 | Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Converting Python To LaTeX Has Possibly Never Been So Simple |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Python-To-LaTeX.ipynb) | [🔗](https://avichawla.substack.com/p/converting-python-to-latex-has-possibly)|
 | Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
