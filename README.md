@@ -126,6 +126,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Perfplot: Measure, Visualize and Compare Run-time With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Perfplot.ipynb) | [🔗](https://avichawla.substack.com/p/perfplot-measure-visualize-and-compare)|
 | Prettify Word Clouds In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Pretty-Word-Clould.ipynb) | [🔗](https://avichawla.substack.com/p/prettify-word-clouds-in-python)|
 | Calendar Map As A Richer Alternative to Line Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Calendar-Map.ipynb) | [🔗](https://avichawla.substack.com/p/calendar-map-as-a-richer-alternative)|
 | Density Plot As A Richer Alternative to Scatter Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Density-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/density-plot-as-a-richer-alternative)| [Medium](https://medium.com/p/a3bab20d4872/)
