@@ -251,6 +251,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Statistics
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Pandas and NumPy Return Different Values for Standard Deviation. Why? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Std-dev-Pandas-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-and-numpy-return-different)| 
 | Why Correlation (and Other Statistics) Can Be Misleading|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Statistics-Can-Mislead.ipynb) | [🔗](https://avichawla.substack.com/p/why-correlation-and-other-statistics)| 
 
 ## Testing
