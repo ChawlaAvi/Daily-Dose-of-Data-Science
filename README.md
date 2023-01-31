@@ -168,6 +168,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Preview Your README File Locally In GitHub Style |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/README-preview-local.ipynb) | [🔗](https://avichawla.substack.com/p/preview-your-readme-file-locally)|
 | This GUI Tool Can Possibly Save You Hours Of Manual Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Visual-Python.ipynb) | [🔗](https://avichawla.substack.com/p/this-gui-tool-can-possibly-save-you)|
 | Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Converting Python To LaTeX Has Possibly Never Been So Simple |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Python-To-LaTeX.ipynb) | [🔗](https://avichawla.substack.com/p/converting-python-to-latex-has-possibly)|
