@@ -177,7 +177,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 | A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Debugging Made Easy With PySnooper| [🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/pysnooper-debugging.ipynb) | [🔗](https://avichawla.substack.com/p/debugging-made-easy-with-pysnooper)|
-| Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
+| Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
 | CodeSquire: The AI Coding Assistant You Should Use Over GitHub Copilot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/CodeSquire-AI-code-completion.ipynb) | [🔗](https://avichawla.substack.com/p/codesquire-the-ai-coding-assistant)| 
 |Find Unused Python Code With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Dead-Code.ipynb) | [🔗](https://avichawla.substack.com/p/find-unused-python-code-with-ease)| 
 | Enrich Your Notebook With Interactive Controls|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Interactive-Controls.ipynb) | [🔗](https://avichawla.substack.com/p/enrich-your-notebook-with-interactive)| 
@@ -271,5 +271,6 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Documents
 |Title | Document | Substack | Article
 |--|:--:|:--:|:--:|
+|37 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/37-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/gem-libraries)|
 |10 Automated EDA Tools That Will Save You Hours Of (Tedious) Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/10%20Automated%20EDA%20Tools.pdf) | [🔗](https://avichawla.substack.com/p/10-automated-eda-tools-that-will)|
 |30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
