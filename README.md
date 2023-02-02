@@ -79,6 +79,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
 | The Coolest Jupyter Notebook Hack |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Retrieve-Output-Three-Ways.ipynb) | [🔗](https://avichawla.substack.com/p/the-coolest-jupyter-notebook-hack)| 
 |View Documentation in Jupyter Notebook|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
@@ -97,6 +98,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
 | Make Dot Notation More Powerful in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Powerful-Dot-Notation.ipynb) | [🔗](https://avichawla.substack.com/p/make-dot-notation-more-powerful-in)|
 | An Elegant Way To Perform Shutdown Tasks in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/atexit-register-decorator.ipynb) | [🔗](https://avichawla.substack.com/p/an-elegant-way-to-perform-shutdown)|
 | What Are Class Methods and When To Use Them? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/class-methods.ipynb) | [🔗](https://avichawla.substack.com/p/what-are-class-methods-and-when-to)|
@@ -124,6 +126,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Perfplot: Measure, Visualize and Compare Run-time With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Perfplot.ipynb) | [🔗](https://avichawla.substack.com/p/perfplot-measure-visualize-and-compare)|
 | Prettify Word Clouds In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Pretty-Word-Clould.ipynb) | [🔗](https://avichawla.substack.com/p/prettify-word-clouds-in-python)|
 | Calendar Map As A Richer Alternative to Line Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Calendar-Map.ipynb) | [🔗](https://avichawla.substack.com/p/calendar-map-as-a-richer-alternative)|
 | Density Plot As A Richer Alternative to Scatter Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Density-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/density-plot-as-a-richer-alternative)| [Medium](https://medium.com/p/a3bab20d4872/)
@@ -165,13 +168,16 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Preview Your README File Locally In GitHub Style |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/README-preview-local.ipynb) | [🔗](https://avichawla.substack.com/p/preview-your-readme-file-locally)|
+| This GUI Tool Can Possibly Save You Hours Of Manual Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Visual-Python.ipynb) | [🔗](https://avichawla.substack.com/p/this-gui-tool-can-possibly-save-you)|
+| Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Converting Python To LaTeX Has Possibly Never Been So Simple |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Python-To-LaTeX.ipynb) | [🔗](https://avichawla.substack.com/p/converting-python-to-latex-has-possibly)|
 | Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
 | Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
 | A No-Code Online Tool To Explore and Understand Neural Networks |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Understand-Neural-Net.ipynb) | [🔗](https://avichawla.substack.com/p/a-no-code-online-tool-to-explore)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Debugging Made Easy With PySnooper| [🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Debugging/pysnooper-debugging.ipynb) | [🔗](https://avichawla.substack.com/p/debugging-made-easy-with-pysnooper)|
-| Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
+| Deep Learning Network Debugging Made Easy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Debug-Network.ipynb) | [🔗](https://avichawla.substack.com/p/deep-learning-network-debugging-made)|
 | CodeSquire: The AI Coding Assistant You Should Use Over GitHub Copilot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/CodeSquire-AI-code-completion.ipynb) | [🔗](https://avichawla.substack.com/p/codesquire-the-ai-coding-assistant)| 
 |Find Unused Python Code With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Dead-Code.ipynb) | [🔗](https://avichawla.substack.com/p/find-unused-python-code-with-ease)| 
 | Enrich Your Notebook With Interactive Controls|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Interactive-Controls.ipynb) | [🔗](https://avichawla.substack.com/p/enrich-your-notebook-with-interactive)| 
@@ -187,6 +193,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 |The Best File Format To Store A Pandas DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/CSV-Feather-Parquet-Pickle.ipynb) | [🔗](https://avichawla.substack.com/p/the-best-file-format-to-store-a-pandas)| [Medium](https://towardsdatascience.com/why-i-stopped-dumping-dataframes-to-a-csv-and-why-you-should-too-c0954c410f8f)
@@ -245,6 +252,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Statistics
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Pandas and NumPy Return Different Values for Standard Deviation. Why? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Std-dev-Pandas-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-and-numpy-return-different)| 
 | Why Correlation (and Other Statistics) Can Be Misleading|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Statistics-Can-Mislead.ipynb) | [🔗](https://avichawla.substack.com/p/why-correlation-and-other-statistics)| 
 
 ## Testing
@@ -255,11 +263,14 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+|Visualize Commit History of Git Repo With Beautiful Animations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Git-Story.ipynb) | [🔗](https://avichawla.substack.com/p/visualize-commit-history-of-git-repo)|
+|How Would You Identify Fuzzy Duplicates In A Data With Million Records? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Data-Deduplication.ipynb) | [🔗](https://avichawla.substack.com/p/how-would-you-identify-fuzzy-duplicates)|
 |Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)| [Medium](https://medium.com/@avi_chawla/1f43593e480a)
 |Explore CSV Data Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/CSV-From-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/explore-csv-data-right-from-the-terminal)| 
 
 ## Documents
 |Title | Document | Substack | Article
 |--|:--:|:--:|:--:|
+|37 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/37-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/gem-libraries)|
 |10 Automated EDA Tools That Will Save You Hours Of (Tedious) Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/10%20Automated%20EDA%20Tools.pdf) | [🔗](https://avichawla.substack.com/p/10-automated-eda-tools-that-will)|
 |30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
