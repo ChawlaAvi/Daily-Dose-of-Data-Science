@@ -126,6 +126,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 | Make Your Matplotlib Plots More Professional |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Profession-Science-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/make-your-matplotlib-plots-more-professional)|
 | Perfplot: Measure, Visualize and Compare Run-time With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Perfplot.ipynb) | [🔗](https://avichawla.substack.com/p/perfplot-measure-visualize-and-compare)|
 | Prettify Word Clouds In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Pretty-Word-Clould.ipynb) | [🔗](https://avichawla.substack.com/p/prettify-word-clouds-in-python)|
@@ -264,6 +265,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 |Visualize Commit History of Git Repo With Beautiful Animations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Git-Story.ipynb) | [🔗](https://avichawla.substack.com/p/visualize-commit-history-of-git-repo)|
 |How Would You Identify Fuzzy Duplicates In A Data With Million Records? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Data-Deduplication.ipynb) | [🔗](https://avichawla.substack.com/p/how-would-you-identify-fuzzy-duplicates)|
 |Automated Code Refactoring With Sourcery |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Sourcery.ipynb) | [🔗](https://avichawla.substack.com/p/automated-code-refactoring-with-sourcery)| [Medium](https://medium.com/@avi_chawla/1f43593e480a)
