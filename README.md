@@ -242,6 +242,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Is This The Best Animated Guide To KMeans Ever? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Visualization.ipynb) | [🔗](https://avichawla.substack.com/p/is-this-the-best-animated-guide-to)|
+| An Effective Yet Underrated Technique To Improve Model Performance |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Augmentation.ipynb) | [🔗](https://avichawla.substack.com/p/an-effective-yet-underrated-technique)|
 | How to Encode Categorical Features With Many Categories? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Categorical-Encoding.ipynb) | [🔗](https://avichawla.substack.com/p/how-to-encode-categorical-features)|
 | Why KMeans May Not Be The Apt Clustering Algorithm Always |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/DBSCAN-vs-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/why-kmeans-may-not-be-the-apt-clustering)|
 | Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
