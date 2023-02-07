@@ -79,7 +79,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
+| Never Search Jupyter Notebooks Manually Again To Find Your Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Search-Code-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/never-search-jupyter-notebooks-manually)|
+| Stop Previewing Raw DataFrames. Instead, Use DataTables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
 | The Coolest Jupyter Notebook Hack |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Retrieve-Output-Three-Ways.ipynb) | [🔗](https://avichawla.substack.com/p/the-coolest-jupyter-notebook-hack)| 
 |View Documentation in Jupyter Notebook|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/View-Documentation.ipynb) | [🔗](https://avichawla.substack.com/p/view-documentation-in-jupyter-notebook)| 
