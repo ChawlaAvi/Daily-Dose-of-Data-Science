@@ -129,6 +129,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Simple One-Liners to Preview a Decision Tree Using Sklearn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Preview-Decision-Tree.ipynb) | [🔗](https://avichawla.substack.com/p/simple-one-liners-to-preview-a-decision)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 | Make Your Matplotlib Plots More Professional |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Profession-Science-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/make-your-matplotlib-plots-more-professional)|
 | Perfplot: Measure, Visualize and Compare Run-time With Ease |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Perfplot.ipynb) | [🔗](https://avichawla.substack.com/p/perfplot-measure-visualize-and-compare)|
