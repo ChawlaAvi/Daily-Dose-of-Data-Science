@@ -100,6 +100,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Right Way to Roll Out Library Updates in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Deprecated-Warning.ipynb) | [🔗](https://avichawla.substack.com/p/the-right-way-to-roll-out-library)|
 | F-strings Are Much More Versatile Than You Think |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/f-strings-hack.ipynb) | [🔗](https://avichawla.substack.com/p/f-strings-are-much-more-versatile)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
 | Make Dot Notation More Powerful in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Powerful-Dot-Notation.ipynb) | [🔗](https://avichawla.substack.com/p/make-dot-notation-more-powerful-in)|
