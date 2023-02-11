@@ -40,6 +40,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Stop Using The Describe Method in Pandas. Instead, use Skimpy. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Superchared-Describe-2.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in-85e)|
 | Stop Using The Describe Method in Pandas. Instead, use Summarytools. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Supercharge-Describe.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in)|
 | Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
 | 70x Faster Pandas By Changing Just One Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/70x-Faster-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/70x-faster-pandas-by-changing-just)|
