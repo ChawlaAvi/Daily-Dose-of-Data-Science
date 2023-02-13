@@ -40,6 +40,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | Stop Using The Describe Method in Pandas. Instead, use Skimpy. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Superchared-Describe-2.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in-85e)|
 | Stop Using The Describe Method in Pandas. Instead, use Summarytools. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Supercharge-Describe.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in)|
 | Analyze A Pandas DataFrame Without Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-GUI.ipynb) | [🔗](https://avichawla.substack.com/p/analyze-a-pandas-dataframe-without)|
@@ -201,6 +202,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
@@ -282,6 +284,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Documents
 |Title | Document | Substack | Article
 |--|:--:|:--:|:--:|
+|40 Open-Source Tools to Supercharge Your Pandas Workflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/40-pandas-libs.ipynb) | [🔗](https://avichawla.substack.com/p/37-open-source-tools-to-supercharge-pandas)|
 |37 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/37-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/gem-libraries)|
 |10 Automated EDA Tools That Will Save You Hours Of (Tedious) Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/10%20Automated%20EDA%20Tools.pdf) | [🔗](https://avichawla.substack.com/p/10-automated-eda-tools-that-will)|
 |30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
