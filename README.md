@@ -132,6 +132,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Style Matplotlib Plots To Make Them More Attractive |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Change-Matplotlib-Style.ipynb) | [🔗](https://avichawla.substack.com/p/style-matplotlib-plots-to-make-them)|
 | Simple One-Liners to Preview a Decision Tree Using Sklearn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Preview-Decision-Tree.ipynb) | [🔗](https://avichawla.substack.com/p/simple-one-liners-to-preview-a-decision)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 | Make Your Matplotlib Plots More Professional |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Profession-Science-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/make-your-matplotlib-plots-more-professional)|
