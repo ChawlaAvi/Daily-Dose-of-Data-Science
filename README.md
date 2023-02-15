@@ -82,6 +82,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Never Search Jupyter Notebooks Manually Again To Find Your Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Search-Code-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/never-search-jupyter-notebooks-manually)|
 | Stop Previewing Raw DataFrames. Instead, Use DataTables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
 | Label Your Data With The Click Of A Button|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data.ipynb) | [🔗](https://avichawla.substack.com/p/label-your-data-with-the-click-of)|
@@ -178,6 +179,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Preview Your README File Locally In GitHub Style |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/README-preview-local.ipynb) | [🔗](https://avichawla.substack.com/p/preview-your-readme-file-locally)|
 | This GUI Tool Can Possibly Save You Hours Of Manual Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Visual-Python.ipynb) | [🔗](https://avichawla.substack.com/p/this-gui-tool-can-possibly-save-you)|
 | Stop Previewing Raw DataFrames. Instead, Use DataTables. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
