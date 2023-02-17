@@ -34,6 +34,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 15. [Testing](#testing)
 16. [Terminal](#terminal)
 17. [Documents](#documents)
+18. [Animations](#animations)
 
 
 ## Pandas
@@ -278,6 +279,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Never Refactor Your Code Manually Again. Instead, Use Sourcery! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Code-refactoring.ipynb) | [🔗](https://avichawla.substack.com/p/never-refactor-your-code-manually)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 |Visualize Commit History of Git Repo With Beautiful Animations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Git-Story.ipynb) | [🔗](https://avichawla.substack.com/p/visualize-commit-history-of-git-repo)|
 |How Would You Identify Fuzzy Duplicates In A Data With Million Records? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Data-Deduplication.ipynb) | [🔗](https://avichawla.substack.com/p/how-would-you-identify-fuzzy-duplicates)|
@@ -291,3 +293,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |37 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/37-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/gem-libraries)|
 |10 Automated EDA Tools That Will Save You Hours Of (Tedious) Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/10%20Automated%20EDA%20Tools.pdf) | [🔗](https://avichawla.substack.com/p/10-automated-eda-tools-that-will)|
 |30 Python Libraries to (Hugely) Boost Your Data Science Productivity |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/30%20Python%20Libraries%20to%20(Hugely)%20Boost%20Your%20Data%20Science%20Productivity.pdf) | [🔗](https://avichawla.substack.com/p/30-python-libraries-to-hugely-boost)|
+
+## Animations
+
+|Title | Notebook | Substack | Video
+|--|:--:|:--:|:--:|
+| Visualizing The Data Transformation of a Neural Network |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Animations/Neural-Network-Visualization.ipynb) | [🔗](https://avichawla.substack.com/p/visualizing-the-data-transformation)|
