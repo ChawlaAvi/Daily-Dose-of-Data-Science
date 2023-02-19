@@ -41,6 +41,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Generate Helpful Hints As You Write Your Pandas Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Generate-Pandas-Hints.ipynb) | [🔗](https://avichawla.substack.com/p/generate-helpful-hints-as-you-write)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | Stop Using The Describe Method in Pandas. Instead, use Skimpy. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Superchared-Describe-2.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in-85e)|
 | Stop Using The Describe Method in Pandas. Instead, use Summarytools. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Supercharge-Describe.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in)|
@@ -161,6 +162,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](Speedup-NumPy-with-Bottleneck)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 |An Elegant Way To Perform Matrix Multiplication |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Matrix-Multiplcation-Operator.ipynb) | [🔗](https://avichawla.substack.com/p/an-elegant-way-to-perform-matrix)|
 |Difference Between Dot and Matmul in NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Dot-and-Matmul.ipynb) | [🔗](https://avichawla.substack.com/p/dot-and-matmul-difference)|
