@@ -105,6 +105,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Most Python Programmers Don't Know This About Python For-loops |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Lesser-Known-For-Loop-Tip-Python.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know)|
+| How To Enable Function Overloading In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Function-Overloading.ipynb) | [🔗](https://avichawla.substack.com/p/how-to-enable-function-overloading)|
 | The Right Way to Roll Out Library Updates in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Deprecated-Warning.ipynb) | [🔗](https://avichawla.substack.com/p/the-right-way-to-roll-out-library)|
 | F-strings Are Much More Versatile Than You Think |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/f-strings-hack.ipynb) | [🔗](https://avichawla.substack.com/p/f-strings-are-much-more-versatile)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
@@ -162,7 +164,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](Speedup-NumPy-with-Bottleneck)|
+| Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](Speedup-NumPy-with-Bottleneck)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
 |An Elegant Way To Perform Matrix Multiplication |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Matrix-Multiplcation-Operator.ipynb) | [🔗](https://avichawla.substack.com/p/an-elegant-way-to-perform-matrix)|
 |Difference Between Dot and Matmul in NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Dot-and-Matmul.ipynb) | [🔗](https://avichawla.substack.com/p/dot-and-matmul-difference)|
