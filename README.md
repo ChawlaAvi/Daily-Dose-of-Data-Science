@@ -41,6 +41,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
 | Generate Helpful Hints As You Write Your Pandas Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Generate-Pandas-Hints.ipynb) | [🔗](https://avichawla.substack.com/p/generate-helpful-hints-as-you-write)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | Stop Using The Describe Method in Pandas. Instead, use Skimpy. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Superchared-Describe-2.ipynb) | [🔗](https://avichawla.substack.com/p/stop-using-the-describe-method-in-85e)|
@@ -137,6 +138,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
 | Style Matplotlib Plots To Make Them More Attractive |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Change-Matplotlib-Style.ipynb) | [🔗](https://avichawla.substack.com/p/style-matplotlib-plots-to-make-them)|
 | Simple One-Liners to Preview a Decision Tree Using Sklearn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Preview-Decision-Tree.ipynb) | [🔗](https://avichawla.substack.com/p/simple-one-liners-to-preview-a-decision)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
