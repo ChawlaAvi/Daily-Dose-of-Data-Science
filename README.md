@@ -107,6 +107,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Why Python Does Not Offer True OOP Encapsulation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Access-Modifiers.ipynb) | [🔗](https://avichawla.substack.com/p/why-python-does-not-offer-true-oop)|
 | Most Python Programmers Don't Know This About Python For-loops |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Lesser-Known-For-Loop-Tip-Python.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know)|
 | How To Enable Function Overloading In Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Function-Overloading.ipynb) | [🔗](https://avichawla.substack.com/p/how-to-enable-function-overloading)|
 | The Right Way to Roll Out Library Updates in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Deprecated-Warning.ipynb) | [🔗](https://avichawla.substack.com/p/the-right-way-to-roll-out-library)|
