@@ -41,6 +41,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Simple Trick to Make The Most Out of Pivot Tables in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Enrich-Pivot-Table.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-to-make-the-most-out)|
 | Never Worry About Parsing Errors Again While Reading CSV with Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Messy-CSV-read.ipynb) | [🔗](https://avichawla.substack.com/p/never-worry-about-parsing-errors)|
 | An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
 | Generate Helpful Hints As You Write Your Pandas Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Generate-Pandas-Hints.ipynb) | [🔗](https://avichawla.substack.com/p/generate-helpful-hints-as-you-write)|
