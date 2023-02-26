@@ -288,6 +288,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Most Command-line Users Don't Know This Cool Trick About Using Terminals |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Free-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/most-command-line-users-dont-know)|
 | Never Refactor Your Code Manually Again. Instead, Use Sourcery! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Code-refactoring.ipynb) | [🔗](https://avichawla.substack.com/p/never-refactor-your-code-manually)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
 |Visualize Commit History of Git Repo With Beautiful Animations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Git-Story.ipynb) | [🔗](https://avichawla.substack.com/p/visualize-commit-history-of-git-repo)|
