@@ -189,6 +189,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Supercharge Shell With Python Using Xonsh |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Supercharge-Shell.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-shell-with-python-using)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Preview Your README File Locally In GitHub Style |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/README-preview-local.ipynb) | [🔗](https://avichawla.substack.com/p/preview-your-readme-file-locally)|
 | This GUI Tool Can Possibly Save You Hours Of Manual Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Visual-Python.ipynb) | [🔗](https://avichawla.substack.com/p/this-gui-tool-can-possibly-save-you)|
@@ -288,6 +289,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Terminal
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Supercharge Shell With Python Using Xonsh |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Supercharge-Shell.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-shell-with-python-using)|
 | Most Command-line Users Don't Know This Cool Trick About Using Terminals |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Free-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/most-command-line-users-dont-know)|
 | Never Refactor Your Code Manually Again. Instead, Use Sourcery! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Code-refactoring.ipynb) | [🔗](https://avichawla.substack.com/p/never-refactor-your-code-manually)|
 | Create Data Plots Right From The Terminal |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Terminal/Plotting-in-Terminal.ipynb) | [🔗](https://avichawla.substack.com/p/create-data-plots-right-from-the)|
