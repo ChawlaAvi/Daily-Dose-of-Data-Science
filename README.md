@@ -41,6 +41,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | A Simple Trick to Make The Most Out of Pivot Tables in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Enrich-Pivot-Table.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-to-make-the-most-out)|
 | Never Worry About Parsing Errors Again While Reading CSV with Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Messy-CSV-read.ipynb) | [🔗](https://avichawla.substack.com/p/never-worry-about-parsing-errors)|
 | An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
@@ -87,6 +88,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Never Search Jupyter Notebooks Manually Again To Find Your Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Search-Code-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/never-search-jupyter-notebooks-manually)|
 | Stop Previewing Raw DataFrames. Instead, Use DataTables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupter-DataTables.ipynb) | [🔗](https://avichawla.substack.com/p/stop-previewing-raw-dataframes-instead)|
@@ -189,6 +191,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Supercharge Shell With Python Using Xonsh |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Supercharge-Shell.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-shell-with-python-using)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Preview Your README File Locally In GitHub Style |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/README-preview-local.ipynb) | [🔗](https://avichawla.substack.com/p/preview-your-readme-file-locally)|
