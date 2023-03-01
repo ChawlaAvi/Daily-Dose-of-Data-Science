@@ -143,6 +143,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| An Underrated Technique To Create Better Data Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Better-Storytelling.ipynb) | [🔗](https://avichawla.substack.com/p/an-underrated-technique-to-create)|
 | An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
 | Style Matplotlib Plots To Make Them More Attractive |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Change-Matplotlib-Style.ipynb) | [🔗](https://avichawla.substack.com/p/style-matplotlib-plots-to-make-them)|
 | Simple One-Liners to Preview a Decision Tree Using Sklearn |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Preview-Decision-Tree.ipynb) | [🔗](https://avichawla.substack.com/p/simple-one-liners-to-preview-a-decision)|
