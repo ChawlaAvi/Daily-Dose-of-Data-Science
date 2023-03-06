@@ -144,6 +144,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Don't Create Messy Bar Plots. Instead, Try Bubble Charts! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bubble-Charts.ipynb) | [🔗](https://avichawla.substack.com/p/dont-create-messy-bar-plots-instead)|
 | Use Box Plots With Caution! They May Be Misleading. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Box-Plots-Are-Misleading.ipynb) | [🔗](https://avichawla.substack.com/p/use-box-plots-with-caution-they-may)|
 | An Underrated Technique To Create Better Data Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Better-Storytelling.ipynb) | [🔗](https://avichawla.substack.com/p/an-underrated-technique-to-create)|
 | An Interesting and Lesser-Known Way To Create Plots Using Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Inline-DF-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/inline-plots-pandas)|
