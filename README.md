@@ -110,6 +110,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Most Python Programmers Don't Know This About Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/__init__-and-__new__-method.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know-b55)|
 | You Can Add a List As a Dictionary's Key (Technically)! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-List-As-Dict-Key.ipynb) | [🔗](https://avichawla.substack.com/p/you-can-add-a-list-as-a-dictionarys)|
 | Why Python Does Not Offer True OOP Encapsulation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Access-Modifiers.ipynb) | [🔗](https://avichawla.substack.com/p/why-python-does-not-offer-true-oop)|
 | Most Python Programmers Don't Know This About Python For-loops |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Lesser-Known-For-Loop-Tip-Python.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know)|
