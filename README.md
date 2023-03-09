@@ -273,6 +273,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| This Small Tweak Can Significantly Boost The Run-time of KMeans |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Boost-KMeans-Run-time.ipynb) | [🔗](https://avichawla.substack.com/p/this-small-tweak-can-significantly)|
 | Most ML Folks Often Neglect This While Using Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Assumption.ipynb) | [🔗](https://avichawla.substack.com/p/most-ml-folks-often-neglect-this)|
 | Is This The Best Animated Guide To KMeans Ever? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Visualization.ipynb) | [🔗](https://avichawla.substack.com/p/is-this-the-best-animated-guide-to)|
 | An Effective Yet Underrated Technique To Improve Model Performance |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Augmentation.ipynb) | [🔗](https://avichawla.substack.com/p/an-effective-yet-underrated-technique)|
