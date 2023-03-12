@@ -227,6 +227,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-never)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
