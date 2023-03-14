@@ -1,4 +1,4 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science)  [![View on 🔗](https://img.shields.io/badge/🔗-View%20on%20🔗-blueviolet?logo=medium)](https://medium.com/@avi_chawla) [![Daily Dose of Data Science](https://img.shields.io/badge/Substack-View_on_Substack-blue?logo=Substack)](https://avichawla.substack.com/) [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View_on_LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/avi-chawla/recent-activity/shares/) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science)  [![View on Medium](https://img.shields.io/badge/🔗-View%20on%20🔗-blueviolet?logo=medium)](https://medium.com/@avi_chawla) [![Daily Dose of Data Science](https://img.shields.io/badge/Substack-View_on_Substack-blue?logo=Substack)](https://avichawla.substack.com/) [![View on LinkedIn](https://img.shields.io/badge/LinkedIn-View_on_LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/avi-chawla/recent-activity/shares/) 
 
 ![alt text](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/_Extras/banner_3ds.png)
 
@@ -148,6 +148,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| An Underrated Technique To Improve Your Data Visualizations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Text-annotations.ipynb) | [🔗](https://avichawla.substack.com/p/an-underrated-technique-to-improve)|
 | Who Said Matplotlib Cannot Create Interactive Plots? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Interactive-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/who-said-matplotlib-cannot-create)|
 | Don't Create Messy Bar Plots. Instead, Try Bubble Charts! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bubble-Charts.ipynb) | [🔗](https://avichawla.substack.com/p/dont-create-messy-bar-plots-instead)|
 | Use Box Plots With Caution! They May Be Misleading. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Box-Plots-Are-Misleading.ipynb) | [🔗](https://avichawla.substack.com/p/use-box-plots-with-caution-they-may)|
