@@ -148,6 +148,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Limitations Of Heatmap That Are Slowing Down Your Data Analysis |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Enrich-Heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitations-of-heatmap-that-are)|
 | An Underrated Technique To Improve Your Data Visualizations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Text-annotations.ipynb) | [🔗](https://avichawla.substack.com/p/an-underrated-technique-to-improve)|
 | Who Said Matplotlib Cannot Create Interactive Plots? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Interactive-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/who-said-matplotlib-cannot-create)|
 | Don't Create Messy Bar Plots. Instead, Try Bubble Charts! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bubble-Charts.ipynb) | [🔗](https://avichawla.substack.com/p/dont-create-messy-bar-plots-instead)|
