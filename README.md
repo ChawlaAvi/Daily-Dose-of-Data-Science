@@ -112,6 +112,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Counterintuitive Fact About Python Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Functions-Are-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-fact-about-python)|
 | Manipulating Mutable Objects In Python Can Get Confusing At Times |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Modifying-Mutable-Object.ipynb) | [🔗](https://avichawla.substack.com/p/manipulating-mutable-objects-in-python)|
 | Most Python Programmers Don't Know This About Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/__init__-and-__new__-method.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know-b55)|
 | You Can Add a List As a Dictionary's Key (Technically)! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-List-As-Dict-Key.ipynb) | [🔗](https://avichawla.substack.com/p/you-can-add-a-list-as-a-dictionarys)|
