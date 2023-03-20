@@ -280,6 +280,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Always Validate Your Output Variable Before Using Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Check-Output.ipynb) | [🔗](https://avichawla.substack.com/p/always-validate-your-output-variable)|
 | Why Is It Important To Shuffle Your Dataset Before Training An ML Model |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-Shuffle-Data.ipynb) | [🔗](https://avichawla.substack.com/p/why-is-it-important-to-shuffle-your)|
 | Why Are We Typically Advised To Set Seeds for Random Generators? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-Set-Seeds.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-set)|
 | This Small Tweak Can Significantly Boost The Run-time of KMeans |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Boost-KMeans-Run-time.ipynb) | [🔗](https://avichawla.substack.com/p/this-small-tweak-can-significantly)|
