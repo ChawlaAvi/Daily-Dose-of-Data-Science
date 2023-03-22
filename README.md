@@ -280,6 +280,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-logistic-reg-is-reg.ipynb) | [🔗](https://avichawla.substack.com/p/why-dont-we-call-it-logistic-classification)|
 | A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Use-Decision-Tree-With-Caution.ipynb) | [🔗](https://avichawla.substack.com/p/a-typical-thing-about-decision-trees)|
 | Always Validate Your Output Variable Before Using Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Check-Output.ipynb) | [🔗](https://avichawla.substack.com/p/always-validate-your-output-variable)|
 | Why Is It Important To Shuffle Your Dataset Before Training An ML Model |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-Shuffle-Data.ipynb) | [🔗](https://avichawla.substack.com/p/why-is-it-important-to-shuffle-your)|
