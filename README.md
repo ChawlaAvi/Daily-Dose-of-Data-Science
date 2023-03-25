@@ -281,6 +281,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Is Class Imbalance Always A Big Problem To Deal With? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Separability-in-Class-Imbalance.ipynb) | [🔗](https://avichawla.substack.com/p/is-class-imbalance-always-a-big-problem)|
 | A Visual Comparison Between Locality and Density-based Clustering |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-vs-DBSCAN.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-comparison-between-locality)|
 | A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-logistic-reg-is-reg.ipynb) | [🔗](https://avichawla.substack.com/p/why-dont-we-call-it-logistic-classification)|
 | A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Use-Decision-Tree-With-Caution.ipynb) | [🔗](https://avichawla.substack.com/p/a-typical-thing-about-decision-trees)|
