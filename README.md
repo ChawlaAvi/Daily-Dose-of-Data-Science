@@ -41,6 +41,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Are You Sure You Are Using The Correct Pandas Terminologies? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Subsetting-Terminology.ipynb) | [🔗](https://avichawla.substack.com/p/are-you-sure-you-are-using-the-correct)|
 | If You Are Not Able To Code A Vectorized Approach, Try This. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Way-to-Iterate-DataFrame.ipynb) | [🔗](https://avichawla.substack.com/p/if-you-are-not-able-to-code-a-vectorized)|
 | Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-never)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
