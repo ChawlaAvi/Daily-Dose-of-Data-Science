@@ -238,7 +238,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
+| Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-never)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
