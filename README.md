@@ -117,6 +117,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | A Counterintuitive Fact About Python Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Functions-Are-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-fact-about-python)|
 | Manipulating Mutable Objects In Python Can Get Confusing At Times |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Modifying-Mutable-Object.ipynb) | [🔗](https://avichawla.substack.com/p/manipulating-mutable-objects-in-python)|
 | Most Python Programmers Don't Know This About Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/__init__-and-__new__-method.ipynb) | [🔗](https://avichawla.substack.com/p/most-python-programmers-dont-know-b55)|
@@ -237,6 +238,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-never)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
 | A Single Line That Will Make Your Python Code Faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Numba-Faster-Python.ipynb) | [🔗](https://avichawla.substack.com/p/faster-python-with-one-line)|
