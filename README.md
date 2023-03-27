@@ -8,6 +8,10 @@
 
 This repository is a collection of all the code snippets presented in my publication. If you want to receive these tips in your mailbox daily, you can subscribe to [my Substack newsletter](https://avichawla.substack.com). 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChawlaAvi/Daily-Dose-of-Data-Science&type=Date)](https://star-history.com/#ChawlaAvi/Daily-Dose-of-Data-Science&Date)
+
 ## Run These Code Snippets on Your Local Machine
 
 To download the tips listed here, you can clone this repo.
