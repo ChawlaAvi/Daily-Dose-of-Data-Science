@@ -117,6 +117,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Counterintuitive-Dictionaries.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-thing-about-python)|
 | Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | A Counterintuitive Fact About Python Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Functions-Are-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-fact-about-python)|
 | Manipulating Mutable Objects In Python Can Get Confusing At Times |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Modifying-Mutable-Object.ipynb) | [🔗](https://avichawla.substack.com/p/manipulating-mutable-objects-in-python)|
@@ -155,6 +156,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Matplotlib Has Numerous Hidden Gems. Here's One of Them. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Matplotlib-Rendering-Order.ipynb) | [🔗](https://avichawla.substack.com/p/matplotlib-has-numerous-hidden-gems)|
 | A Simple Trick That Will Make Heatmaps More Elegant |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Size-encoded-heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-will-make-heatmaps)|
 | The Limitations Of Heatmap That Are Slowing Down Your Data Analysis |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Enrich-Heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitations-of-heatmap-that-are)|
 | An Underrated Technique To Improve Your Data Visualizations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Text-annotations.ipynb) | [🔗](https://avichawla.substack.com/p/an-underrated-technique-to-improve)|
