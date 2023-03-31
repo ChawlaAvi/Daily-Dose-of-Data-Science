@@ -291,9 +291,10 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A (Highly) Important Point to Consider Before You Use KMeans Next Time |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/50-KMeans-Models.ipynb) | [🔗](https://avichawla.substack.com/p/a-highly-important-point-to-consider)|
 | Is Class Imbalance Always A Big Problem To Deal With? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Separability-in-Class-Imbalance.ipynb) | [🔗](https://avichawla.substack.com/p/is-class-imbalance-always-a-big-problem)|
 | A Visual Comparison Between Locality and Density-based Clustering |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-vs-DBSCAN.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-comparison-between-locality)|
-| A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-logistic-reg-is-reg.ipynb) | [🔗](https://avichawla.substack.com/p/why-dont-we-call-it-logistic-classification)|
+| Why Don't We Call It Logistic Classification Instead? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-logistic-reg-is-reg.ipynb) | [🔗](https://avichawla.substack.com/p/why-dont-we-call-it-logistic-classification)|
 | A Typical Thing About Decision Trees Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Use-Decision-Tree-With-Caution.ipynb) | [🔗](https://avichawla.substack.com/p/a-typical-thing-about-decision-trees)|
 | Always Validate Your Output Variable Before Using Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Check-Output.ipynb) | [🔗](https://avichawla.substack.com/p/always-validate-your-output-variable)|
 | Why Is It Important To Shuffle Your Dataset Before Training An ML Model |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Why-Shuffle-Data.ipynb) | [🔗](https://avichawla.substack.com/p/why-is-it-important-to-shuffle-your)|
