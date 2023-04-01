@@ -157,6 +157,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Three Simple Ways To (Instantly) Make Your Scatter Plots Clutter Free |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/3-Tips-For-Better-Scatter-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/three-simple-ways-to-instantly-make)|
 | Matplotlib Has Numerous Hidden Gems. Here's One of Them. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Matplotlib-Rendering-Order.ipynb) | [🔗](https://avichawla.substack.com/p/matplotlib-has-numerous-hidden-gems)|
 | A Simple Trick That Will Make Heatmaps More Elegant |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Size-encoded-heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-will-make-heatmaps)|
 | The Limitations Of Heatmap That Are Slowing Down Your Data Analysis |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Enrich-Heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitations-of-heatmap-that-are)|
