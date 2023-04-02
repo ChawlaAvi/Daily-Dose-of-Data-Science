@@ -157,6 +157,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Use Histograms With Caution. They Are Highly Misleading! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Misleading-Hist-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/use-histograms-with-caution-they)|
 | Three Simple Ways To (Instantly) Make Your Scatter Plots Clutter Free |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/3-Tips-For-Better-Scatter-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/three-simple-ways-to-instantly-make)|
 | Matplotlib Has Numerous Hidden Gems. Here's One of Them. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Matplotlib-Rendering-Order.ipynb) | [🔗](https://avichawla.substack.com/p/matplotlib-has-numerous-hidden-gems)|
 | A Simple Trick That Will Make Heatmaps More Elegant |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Size-encoded-heatmaps.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-will-make-heatmaps)|
