@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<style>
+.node {
+	cursor: pointer;
+}
+
+.node circle {
+	stroke-width: 3px;
+}
+
+.node text {
+	font: 12px helvetica;
+}
+
+.link {
+	fill: none;
+	stroke: #ccc;
+	stroke-width: 2px;
+}
+
+</style>
+</head>
+
+<body>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var margin = {top: 50, right: 100, bottom: 150, left: 50};
+
+// collect all inputs
+var tree_depth = {{ tree_depth }};
+var rules = {{ rule|safe }};
+var num_node = {{ num_node }};
+var root = {{ tree|safe }};
+var width = {{ width }}, height = {{ height }};
+var n_classes = {{ n_classes }};
+
+// calculate tree gap
+var tree_gap = (width - margin['left'] - margin['right']) * 1.0 / tree_depth;
+
+// generate tree layout (horizonal)
+var tree = d3.layout.tree().size([height, width]);
+var diagonal = d3.svg.diagonal()
+        .projection(function(d){
+			return [d.y, d.x];
+		});
+
+var svg = d3.select('body').append('svg')
+		.attr('width', width + margin.right + margin.left)
+		.attr('height', height + margin.top + margin.bottom)
+		.append('g')
+		.attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+// color scale based on node impurity
+var node_color_scale = d3.scale.linear()
+    .domain([1.0 / n_classes + 0.1, 0.])
+    .clamp(true);
+
+var i = 0, duration = 750;
+root.x0 = height / 2;
+root.y0 = 0;
+
+// update tree
+update(root);
+
+
+function update(source) {
+
+    // compute the tree layout
+    var nodes = tree.nodes(root).reverse(),
+    links = tree.links(nodes);
+
+    // normalize for fixed-depth
+    nodes.forEach(function(d) {
+    	d.y = d.depth * tree_gap;
+    });
+
+    // draw the nodes
+    var node = svg.selectAll('g.node')
+    		.data(nodes, function(d) {
+    			return d.id || (d.id = ++i);
+    		});
+
+    // enter any new nodes at the parent's previous position
+    var nodeEnter = node.enter().append('g')
+    		.attr('class', 'node')
+    		.on('click', click)
+    		.attr('transform', function(d) {
+    			return 'translate(' + source.y0 + ',' + source.x0 + ')';
+    		})
+    		.on('click', click)
+    		.on('mouseover', mouseover)
+    		.on('mouseout', mouseout);
+
+    // draw tree nodes
+    nodeEnter.append('circle')
+    		.attr('r', 1e-6)
+    		.style('fill', function(d) {
+                // d.color is the target color
+    			node_color_scale.range(['#fff', d.color]);
+    			return node_color_scale(d.impurity);
+    		})
+    		.style('stroke', function(d) {
+    			return d.color;
+    		})
+    		.on('mouseover', function(d) {
+    			if(!d.children) {
+    				d3.select(this).style('fill', function(d){
+    					return d.color;
+    				});
+    				recurse(d, d.color);
+    			}
+    		})
+            // when mouseout, recover everything
+    		.on('mouseout', function(d) {
+    			d3.select(this).style('fill', function(d) {
+    				node_color_scale.range(['#fff', d.color]);
+    				return node_color_scale(d.impurity);
+    			}).attr('r', function(d){
+                    // when the node is collapesd, increase the size
+                    return d._children? 20 : 10;
+                });
+    			d3.selectAll('.link')
+                    .style('stroke-width', '2')
+                    .style('stroke', '#ccc');
+    		});
+
+    // add text on tree nodes
+    var text = nodeEnter.append('text')
+    		.attr('x', 13)
+    		.attr('dy', '-0.5em');
+
+    text.append('tspan')
+    		.style('font-weight', 'bold')
+    		.text(function(d) {
+                return d.name;
+    		});
+
+    text.append('tspan')
+    		.attr('x', 13)
+    		.attr('y', 8)
+    		.text(function(d) {
+    			return 'Values: [' + d.value + ']';
+    		});
+
+    text.append('tspan')
+    		.attr('x', 13)
+    		.attr('y', 22)
+    		.text(function(d) {
+    			return 'Predict: ' + d.predict;
+    		});
+
+    nodeEnter.select('text').style('fill-opacity', 0);
+
+    // transform tree nodes to their initial positions
+    var nodeUpdate = node.transition()
+    		.duration(duration)
+    		.attr('transform', function(d) {
+    			return 'translate(' + d.y + ',' + d.x + ')';
+    		});
+
+    nodeUpdate.select('circle')
+    		.attr('r', function(d){
+    			return d._children? 20 : 10;
+    		})
+    		.style('stroke', function(d) {
+    			return d.color;
+    		})
+    		.style('fill', function(d) {
+    			node_color_scale.range(['#fff', d.color]);
+    			return node_color_scale(d.impurity);
+    		});
+
+    nodeUpdate.select('text').style('fill-opacity', 1);
+
+    // transition exiting nodes to the parent's new position
+    var nodeExit = node.exit().transition()
+    		.duration(duration)
+    		.attr('transform', function(d) {
+    			return 'translate(' + source.y + ',' + source.x + ')';
+    		})
+    		.remove();
+
+    // hide nodes and texts
+    nodeExit.select('circle').attr('r', 1e-6);
+    nodeExit.select('text').style('fill-opacity', 0);
+
+    // draw the links
+    var link = svg.selectAll('path.link')
+    		.data(links, function(d) {
+    			return d.target.id;
+    		});
+
+    // enter any new links at the parent's previous position
+    link.enter().insert('path', 'g')
+    		.attr('class', 'link')
+    		.attr('d', function(d) {
+    			var o = {x: source.x0, y : source.y0};
+    			return diagonal({source:o, target: o});
+    		});
+
+    // transition links to their new position
+    link.transition()
+    		.duration(duration)
+    		.attr('d', diagonal);
+
+    // transition the existing links to the parent's new position
+    link.exit().transition()
+    		.duration(duration)
+    		.attr('d', function(d) {
+    			var o = {x: source.x, y: source.y};
+    			return diagonal({source: o, target: o});
+    		}).remove();
+
+    // stash the old positions for transition
+    nodes.forEach(function(d) {
+    	d.x0 = d.x;
+    	d.y0 = d.y;
+    });
+}
+
+// recursively color the links when hovering on a tree node
+function recurse(d, color) {
+	d3.selectAll('.link').each(function(l) {
+		if(l.target === d) {
+			d3.select(this).style('stroke-width', 4).style('stroke', color);
+		}
+	});
+	if(d.parent) {
+		recurse(d.parent, color);
+	}
+}
+
+function mouseover(d) {
+    // if this node has no children nodes
+	if(!d.children) {
+		var rule = rules[d.self];
+		var append = ['Predict: ' + d.predict, 'Impurity: ' + d.impurity, ''];
+		rule = append.concat(rule);
+
+		var len = rule.length;
+		var info = d3.select(this).append('g').attr('class', 'hover');
+		var y0 = 35;
+		var rules_text = info.append('g').append('text').attr('y', y0);
+
+		for(var i = 1; i <= len; i++) {
+			rules_text.append('tspan')
+					.attr('x', 0)
+					.attr('y', y0 + i * 15)
+					.attr('text-anchor', 'left')
+					.style('font-weight', function(){
+						if(i <= 3) {
+							return 'bold';
+						}else{
+							return null;
+						}
+					})
+					.style('fill', function(){
+						if(i <= 3) {
+							return '#000';
+						}else{
+							return d.color;
+						}
+					})
+					.text(function() {
+						return rule[i - 1];
+					});
+		}
+
+        // draw the box
+		var bbox = info.node().getBBox();
+		var padding = 10;
+		var rect = d3.select(this).insert('rect', 'g')
+				.attr('class', 'info_bg')
+				.attr('x', bbox.x - padding)
+				.attr('y', bbox.y - padding)
+				.attr('width', bbox.width + padding * 2)
+				.attr('height', bbox.height + padding * 2)
+				.style('fill', 'white')
+				.style('stroke', d.color)
+				.style('stroke-width', 2);
+
+		// make the rule infomation on the first layer
+		this.parentNode.appendChild(this);		
+	}
+}
+
+function mouseout(d) {
+	d3.select('.hover').remove();
+	d3.select('.info_bg').remove();
+}
+
+function click(d) {
+	if(d.children) {
+		d._children = d.children;
+		d.children = null;
+	}else {
+		d.children = d._children;
+		d._children = null;
+	}
+	update(d);
+}
+
+</script>
+</body>
+</html>
