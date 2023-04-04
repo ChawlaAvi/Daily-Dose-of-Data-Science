@@ -118,6 +118,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutability-Python.ipynb) | [🔗](https://avichawla.substack.com/p/a-nasty-hidden-feature-of-python)|
 | A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Counterintuitive-Dictionaries.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-thing-about-python)|
 | Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | A Counterintuitive Fact About Python Functions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Functions-Are-Objects.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-fact-about-python)|
