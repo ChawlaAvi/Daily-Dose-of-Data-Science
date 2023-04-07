@@ -45,6 +45,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| AutoProfiler: Automatically Profile Your DataFrame As You Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | [🔗](https://avichawla.substack.com/p/autoprofiler-automatically-profile)|
 | Why You Should Avoid Appending Rows To A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Append-Run-Time.ipynb) | [🔗](https://avichawla.substack.com/p/why-you-should-avoid-appending-rows)|
 | Are You Sure You Are Using The Correct Pandas Terminologies? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Subsetting-Terminology.ipynb) | [🔗](https://avichawla.substack.com/p/are-you-sure-you-are-using-the-correct)|
 | If You Are Not Able To Code A Vectorized Approach, Try This. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Way-to-Iterate-DataFrame.ipynb) | [🔗](https://avichawla.substack.com/p/if-you-are-not-able-to-code-a-vectorized)|
@@ -296,6 +297,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Visualising The Impact Of Regularisation Parameter |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/What-Does-Regularization-Do.ipynb) | [🔗](https://avichawla.substack.com/p/visualising-the-impact-of-regularisation)|
 | A (Highly) Important Point to Consider Before You Use KMeans Next Time |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/50-KMeans-Models.ipynb) | [🔗](https://avichawla.substack.com/p/a-highly-important-point-to-consider)|
 | Is Class Imbalance Always A Big Problem To Deal With? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Separability-in-Class-Imbalance.ipynb) | [🔗](https://avichawla.substack.com/p/is-class-imbalance-always-a-big-problem)|
 | A Visual Comparison Between Locality and Density-based Clustering |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-vs-DBSCAN.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-comparison-between-locality)|
