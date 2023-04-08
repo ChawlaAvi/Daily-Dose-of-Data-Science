@@ -297,6 +297,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Limitation Of Euclidean Distance Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Mahalanobis-Distance.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-euclidean-distance)|
 | Visualising The Impact Of Regularisation Parameter |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/What-Does-Regularization-Do.ipynb) | [🔗](https://avichawla.substack.com/p/visualising-the-impact-of-regularisation)|
 | A (Highly) Important Point to Consider Before You Use KMeans Next Time |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/50-KMeans-Models.ipynb) | [🔗](https://avichawla.substack.com/p/a-highly-important-point-to-consider)|
 | Is Class Imbalance Always A Big Problem To Deal With? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Separability-in-Class-Imbalance.ipynb) | [🔗](https://avichawla.substack.com/p/is-class-imbalance-always-a-big-problem)|
