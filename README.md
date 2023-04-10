@@ -97,6 +97,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Supercharge Your Jupyter Kernel With ipyflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Supercharge-Jupyter-Kernel.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-your-jupyter-kernel-with)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
 | Never Search Jupyter Notebooks Manually Again To Find Your Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Search-Code-in-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/never-search-jupyter-notebooks-manually)|
