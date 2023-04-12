@@ -160,6 +160,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Simple Trick That Significantly Improves The Quality of Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/SVG-Matplotlib-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-significantly)|
 | A Lesser-known Feature of Creating Plots with Plotly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Animated-Plotting-With-Plotly.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-creating)|
 | A Little Bit Of Extra Effort Can Hugely Transform Your Basic Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Professional-Plots-With-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-little-bit-of-extra-effort-can)|
 | Interactively Visualise A Decision Tree With A Sankey Diagram |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Plot-Interactive-Decision-Tree.ipynb) | [🔗](https://avichawla.substack.com/p/interactively-visualise-a-decision)|
