@@ -120,6 +120,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Use Custom Python Objects In A Boolean Context |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Class-Object-Boolean-Context.ipynb) | [🔗](https://avichawla.substack.com/p/use-custom-python-objects-in-a-boolean)|
 | You Were Probably Given Incomplete Info About A Tuple's Immutability |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutable-Tuple.ipynb) | [🔗](https://avichawla.substack.com/p/you-were-probably-given-incomplete)|
 | A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutability-Python.ipynb) | [🔗](https://avichawla.substack.com/p/a-nasty-hidden-feature-of-python)|
 | A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Counterintuitive-Dictionaries.ipynb) | [🔗](https://avichawla.substack.com/p/a-counterintuitive-thing-about-python)|
@@ -301,6 +302,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Visual Guide To Sampling Techniques in Machine Learning |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Sampling-Techniques.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-sampling-techniques)|
 | A Visual and Overly Simplified Guide to PCA |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-and-overly-simplified-guide)|
 | The Limitation Of Euclidean Distance Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Mahalanobis-Distance.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-euclidean-distance)|
 | Visualising The Impact Of Regularisation Parameter |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/What-Does-Regularization-Do.ipynb) | [🔗](https://avichawla.substack.com/p/visualising-the-impact-of-regularisation)|
@@ -328,6 +330,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Statistics
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Be Cautious Before Drawing Any Conclusions Using Summary Statistics |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Zero-Correlation-Datasets.ipynb) | [🔗](https://avichawla.substack.com/p/be-cautious-before-drawing-any-conclusions)| 
 | The Limitation Of Pearson Correlation Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Pearson-vs-Spearman.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-pearson-correlation)| 
 | Pandas and NumPy Return Different Values for Standard Deviation. Why? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Std-dev-Pandas-NumPy.ipynb) | [🔗](https://avichawla.substack.com/p/pandas-and-numpy-return-different)| 
 | Why Correlation (and Other Statistics) Can Be Misleading|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Statistics/Statistics-Can-Mislead.ipynb) | [🔗](https://avichawla.substack.com/p/why-correlation-and-other-statistics)| 
