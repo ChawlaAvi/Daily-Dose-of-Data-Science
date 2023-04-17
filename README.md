@@ -224,6 +224,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Mito Just Got Supercharged With AI! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Text-to-Code-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/mito-just-got-supercharged-with-ai)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Supercharge Shell With Python Using Xonsh |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Supercharge-Shell.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-shell-with-python-using)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
