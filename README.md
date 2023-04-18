@@ -303,6 +303,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| How Many Dimensions Should You Reduce Your Data To When Using PCA? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Dimensions-Hyperparameter.ipynb) | [🔗](https://avichawla.substack.com/p/how-many-dimensions-should-you-reduce)|
 | A Visual Guide To Sampling Techniques in Machine Learning |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Sampling-Techniques.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-sampling-techniques)|
 | A Visual and Overly Simplified Guide to PCA |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-and-overly-simplified-guide)|
 | The Limitation Of Euclidean Distance Which Many Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Mahalanobis-Distance.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-euclidean-distance)|
