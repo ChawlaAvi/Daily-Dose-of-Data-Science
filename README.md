@@ -303,6 +303,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Breathing KMeans: A Better and Faster Alternative to KMeans |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Breathing-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/breathing-kmeans-a-better-and-faster)|
 | How Many Dimensions Should You Reduce Your Data To When Using PCA? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Dimensions-Hyperparameter.ipynb) | [🔗](https://avichawla.substack.com/p/how-many-dimensions-should-you-reduce)|
 | A Visual Guide To Sampling Techniques in Machine Learning |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Sampling-Techniques.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-sampling-techniques)|
 | A Visual and Overly Simplified Guide to PCA |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-and-overly-simplified-guide)|
