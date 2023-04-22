@@ -45,6 +45,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Avoid This Costly Mistake When Indexing A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Correct-Indexing-Order.ipynb) | [🔗](https://avichawla.substack.com/p/avoid-this-costly-mistake-when-indexing)|
 | AutoProfiler: Automatically Profile Your DataFrame As You Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | [🔗](https://avichawla.substack.com/p/autoprofiler-automatically-profile)|
 | Why You Should Avoid Appending Rows To A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Append-Run-Time.ipynb) | [🔗](https://avichawla.substack.com/p/why-you-should-avoid-appending-rows)|
 | Are You Sure You Are Using The Correct Pandas Terminologies? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Subsetting-Terminology.ipynb) | [🔗](https://avichawla.substack.com/p/are-you-sure-you-are-using-the-correct)|
@@ -120,6 +121,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| 9 Command Line Flags To Run Python Scripts More Flexibly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Flags.ipynb) | [🔗](https://avichawla.substack.com/p/9-command-line-flags-to-run-python)|
 | Use Custom Python Objects In A Boolean Context |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Class-Object-Boolean-Context.ipynb) | [🔗](https://avichawla.substack.com/p/use-custom-python-objects-in-a-boolean)|
 | You Were Probably Given Incomplete Info About A Tuple's Immutability |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutable-Tuple.ipynb) | [🔗](https://avichawla.substack.com/p/you-were-probably-given-incomplete)|
 | A Counterintuitive Thing About Python Dictionaries |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutability-Python.ipynb) | [🔗](https://avichawla.substack.com/p/a-nasty-hidden-feature-of-python)|
@@ -358,6 +360,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Documents
 |Title | Document | Substack | Article
 |--|:--:|:--:|:--:|
+|Daily Dose of Data Science - Full Archive |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/Daily%20Dose%20of%20Data%20Science%20-%20Archive.pdf) | [🔗](https://avichawla.substack.com/p/free-daily-dose-of-data-science-pdf)|
 |35 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/35-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/35-gem-py-libs)|
 |40 Open-Source Tools to Supercharge Your Pandas Workflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/40-pandas-libs.ipynb) | [🔗](https://avichawla.substack.com/p/37-open-source-tools-to-supercharge-pandas)|
 |37 Hidden Python Libraries That Are Absolute Gems |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Documents/37-cool-libs.ipynb) | [🔗](https://avichawla.substack.com/p/gem-libraries)|
