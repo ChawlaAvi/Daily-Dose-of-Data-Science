@@ -164,6 +164,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-one-liner-to-create-professional)|
 | A Simple Trick That Significantly Improves The Quality of Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/SVG-Matplotlib-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-significantly)|
 | A Lesser-known Feature of Creating Plots with Plotly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Animated-Plotting-With-Plotly.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-creating)|
 | A Little Bit Of Extra Effort Can Hugely Transform Your Basic Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Professional-Plots-With-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-little-bit-of-extra-effort-can)|
@@ -272,6 +273,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Sklearn
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-on-Large-Datasets.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-sklearn)|
 | Sklearn One-liner to Generate Synthetic Data |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-Synthetic-Data.ipynb) | [🔗](https://avichawla.substack.com/p/sklearn-one-line-to-generate-synthetic)|
 | Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
 | Make Sklearn KMeans 20x times faster |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Faiss-vs-Sklearn-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-numpy-20x-with-numexpr)|
