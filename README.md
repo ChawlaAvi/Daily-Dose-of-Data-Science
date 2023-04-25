@@ -45,6 +45,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Become A Bilingual Data Scientist With These Pandas to SQL Translations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-to-SQL.ipynb) | [🔗](https://avichawla.substack.com/p/become-a-bilingual-data-scientist)|
 | Avoid This Costly Mistake When Indexing A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Correct-Indexing-Order.ipynb) | [🔗](https://avichawla.substack.com/p/avoid-this-costly-mistake-when-indexing)|
 | AutoProfiler: Automatically Profile Your DataFrame As You Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | [🔗](https://avichawla.substack.com/p/autoprofiler-automatically-profile)|
 | Why You Should Avoid Appending Rows To A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Append-Run-Time.ipynb) | [🔗](https://avichawla.substack.com/p/why-you-should-avoid-appending-rows)|
