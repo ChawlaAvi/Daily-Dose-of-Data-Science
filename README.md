@@ -45,6 +45,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Most Common Misconception About Inplace Operations in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/inplace-noninplace-runtime.ipynb) | [🔗](https://avichawla.substack.com/p/the-most-common-misconception-about)|
 | Become A Bilingual Data Scientist With These Pandas to SQL Translations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-to-SQL.ipynb) | [🔗](https://avichawla.substack.com/p/become-a-bilingual-data-scientist)|
 | Avoid This Costly Mistake When Indexing A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Correct-Indexing-Order.ipynb) | [🔗](https://avichawla.substack.com/p/avoid-this-costly-mistake-when-indexing)|
 | AutoProfiler: Automatically Profile Your DataFrame As You Work |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | [🔗](https://avichawla.substack.com/p/autoprofiler-automatically-profile)|
@@ -99,6 +100,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Build Elegant Web Apps Right From Jupyter Notebook with Mercury |[🔗](https://github.com/ChawlaAvi/Mercury-Web-App) | [🔗](https://avichawla.substack.com/p/build-elegant-web-apps-right-from)|
 | Supercharge Your Jupyter Kernel With ipyflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Supercharge-Jupyter-Kernel.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-your-jupyter-kernel-with)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Draw The Data You Are Looking For In Seconds |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Draw-Data.ipynb) | [🔗](https://avichawla.substack.com/p/draw-the-data-you-are-looking-for)|
