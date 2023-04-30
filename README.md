@@ -45,6 +45,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Highly Overlooked Approach To Analysing Pandas DataFrames |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Style-DF.ipynb) | [🔗](https://avichawla.substack.com/p/a-highly-overlooked-approach-to-analysing)|
 | The Most Common Misconception About Inplace Operations in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/inplace-noninplace-runtime.ipynb) | [🔗](https://avichawla.substack.com/p/the-most-common-misconception-about)|
 | Become A Bilingual Data Scientist With These Pandas to SQL Translations |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-to-SQL.ipynb) | [🔗](https://avichawla.substack.com/p/become-a-bilingual-data-scientist)|
 | Avoid This Costly Mistake When Indexing A DataFrame |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Correct-Indexing-Order.ipynb) | [🔗](https://avichawla.substack.com/p/avoid-this-costly-mistake-when-indexing)|
@@ -167,7 +168,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-one-liner-to-create-professional)|
+| A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bump-chart.ipynb) | [🔗](https://avichawla.substack.com/p/visualise-the-change-in-rank-over)|
+| Visualise The Change In Rank Over Time With Bump Charts |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-one-liner-to-create-professional)|
 | A Simple Trick That Significantly Improves The Quality of Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/SVG-Matplotlib-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-significantly)|
 | A Lesser-known Feature of Creating Plots with Plotly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Animated-Plotting-With-Plotly.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-creating)|
 | A Little Bit Of Extra Effort Can Hugely Transform Your Basic Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Professional-Plots-With-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-little-bit-of-extra-effort-can)|
