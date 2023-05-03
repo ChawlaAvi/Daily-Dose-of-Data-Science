@@ -125,6 +125,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Magic Methods: An Underrated Gem of Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/20-Magic-Methods.ipynb) | [🔗](https://avichawla.substack.com/p/magic-methods-an-underrated-gem-of)|
 | 9 Command Line Flags To Run Python Scripts More Flexibly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Flags.ipynb) | [🔗](https://avichawla.substack.com/p/9-command-line-flags-to-run-python)|
 | Use Custom Python Objects In A Boolean Context |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Class-Object-Boolean-Context.ipynb) | [🔗](https://avichawla.substack.com/p/use-custom-python-objects-in-a-boolean)|
 | You Were Probably Given Incomplete Info About A Tuple's Immutability |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Mutable-Tuple.ipynb) | [🔗](https://avichawla.substack.com/p/you-were-probably-given-incomplete)|
@@ -312,6 +313,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Taxonomy Of Regression Algorithms That Many Don't Bother To Remember |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Regression-Algo-Taxonomy.ipynb) | [🔗](https://avichawla.substack.com/p/the-taxonomy-of-regression-algorithms)|
+| The Limitation of PCA Which Many Folks Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Kernel-PCA-vs-PCA.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-pca-which-many)|
 | Breathing KMeans: A Better and Faster Alternative to KMeans |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Breathing-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/breathing-kmeans-a-better-and-faster)|
 | How Many Dimensions Should You Reduce Your Data To When Using PCA? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Dimensions-Hyperparameter.ipynb) | [🔗](https://avichawla.substack.com/p/how-many-dimensions-should-you-reduce)|
 | A Visual Guide To Sampling Techniques in Machine Learning |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Sampling-Techniques.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-sampling-techniques)|
