@@ -125,6 +125,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/for-loop-and-list-comprehension-diff.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-difference-between)|
 | Magic Methods: An Underrated Gem of Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/20-Magic-Methods.ipynb) | [🔗](https://avichawla.substack.com/p/magic-methods-an-underrated-gem-of)|
 | 9 Command Line Flags To Run Python Scripts More Flexibly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Flags.ipynb) | [🔗](https://avichawla.substack.com/p/9-command-line-flags-to-run-python)|
 | Use Custom Python Objects In A Boolean Context |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Class-Object-Boolean-Context.ipynb) | [🔗](https://avichawla.substack.com/p/use-custom-python-objects-in-a-boolean)|
@@ -313,6 +314,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Visual Guide to Stochastic, Mini-batch, and Batch Gradient Descent |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Gradient-Descent-Visual-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-stochastic-mini)|
 | The Taxonomy Of Regression Algorithms That Many Don't Bother To Remember |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Regression-Algo-Taxonomy.ipynb) | [🔗](https://avichawla.substack.com/p/the-taxonomy-of-regression-algorithms)|
 | The Limitation of PCA Which Many Folks Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Kernel-PCA-vs-PCA.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-pca-which-many)|
 | Breathing KMeans: A Better and Faster Alternative to KMeans |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Breathing-KMeans.ipynb) | [🔗](https://avichawla.substack.com/p/breathing-kmeans-a-better-and-faster)|
