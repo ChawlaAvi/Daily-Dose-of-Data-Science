@@ -170,6 +170,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Enrich Your Confusion Matrix With A Sankey Diagram |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Confusion-Matrix-Sankey.ipynb) | [🔗](https://avichawla.substack.com/p/enrich-your-confusion-matrix-with)|
 | A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bump-chart.ipynb) | [🔗](https://avichawla.substack.com/p/visualise-the-change-in-rank-over)|
 | Visualise The Change In Rank Over Time With Bump Charts |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-one-liner-to-create-professional)|
 | A Simple Trick That Significantly Improves The Quality of Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/SVG-Matplotlib-Plots.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-trick-that-significantly)|
@@ -384,3 +385,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |Title | Notebook | Substack | Video
 |--|:--:|:--:|:--:|
 | Visualizing The Data Transformation of a Neural Network |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Animations/Neural-Network-Visualization.ipynb) | [🔗](https://avichawla.substack.com/p/visualizing-the-data-transformation)|
+
+```bash
+
+```
