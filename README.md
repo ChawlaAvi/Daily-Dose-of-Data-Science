@@ -101,6 +101,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data-pigeon.ipynb) | [🔗](https://avichawla.substack.com/p/annotate-data-with-the-click-of-a)|
 | Build Elegant Web Apps Right From Jupyter Notebook with Mercury |[🔗](https://github.com/ChawlaAvi/Mercury-Web-App) | [🔗](https://avichawla.substack.com/p/build-elegant-web-apps-right-from)|
 | Supercharge Your Jupyter Kernel With ipyflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Supercharge-Jupyter-Kernel.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-your-jupyter-kernel-with)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
@@ -235,6 +236,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data-pigeon.ipynb) | [🔗](https://avichawla.substack.com/p/annotate-data-with-the-click-of-a)|
 | Mito Just Got Supercharged With AI! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Text-to-Code-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/mito-just-got-supercharged-with-ai)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
 | Supercharge Shell With Python Using Xonsh |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Supercharge-Shell.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-shell-with-python-using)|
@@ -315,6 +317,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Is Data Normalization Always Necessary Before Training ML Models? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Normalization-Needed-Or-Not-Needed.ipynb) | [🔗](https://avichawla.substack.com/p/is-data-normalization-always-necessary)|
 | A Visual Guide to Stochastic, Mini-batch, and Batch Gradient Descent |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Gradient-Descent-Visual-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-stochastic-mini)|
 | The Taxonomy Of Regression Algorithms That Many Don't Bother To Remember |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Regression-Algo-Taxonomy.ipynb) | [🔗](https://avichawla.substack.com/p/the-taxonomy-of-regression-algorithms)|
 | The Limitation of PCA Which Many Folks Often Ignore |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Kernel-PCA-vs-PCA.ipynb) | [🔗](https://avichawla.substack.com/p/the-limitation-of-pca-which-many)|
