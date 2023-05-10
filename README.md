@@ -317,6 +317,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Advantages and Disadvantages of PCA To Consider Before Using It |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Adv-Disadv.ipynb) | [🔗](https://avichawla.substack.com/p/the-advantages-and-disadvantages)|
 | Loss Functions: An Algorithm-wise Comprehensive Summary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Algo-wise-Loss-Functions.ipynb) | [🔗](https://avichawla.substack.com/p/loss-functions-an-algorithm-wise)|
 | Is Data Normalization Always Necessary Before Training ML Models? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Normalization-Needed-Or-Not-Needed.ipynb) | [🔗](https://avichawla.substack.com/p/is-data-normalization-always-necessary)|
 | A Visual Guide to Stochastic, Mini-batch, and Batch Gradient Descent |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Gradient-Descent-Visual-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/a-visual-guide-to-stochastic-mini)|
