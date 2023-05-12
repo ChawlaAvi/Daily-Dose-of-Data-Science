@@ -101,6 +101,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Restart Jupyter Kernel Without Losing Variables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/store-magic-command.ipynb) | [🔗](https://avichawla.substack.com/p/restart-jupyter-kernel-without-losing)|
 | Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data-pigeon.ipynb) | [🔗](https://avichawla.substack.com/p/annotate-data-with-the-click-of-a)|
 | Build Elegant Web Apps Right From Jupyter Notebook with Mercury |[🔗](https://github.com/ChawlaAvi/Mercury-Web-App) | [🔗](https://avichawla.substack.com/p/build-elegant-web-apps-right-from)|
 | Supercharge Your Jupyter Kernel With ipyflow |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Supercharge-Jupyter-Kernel.ipynb) | [🔗](https://avichawla.substack.com/p/supercharge-your-jupyter-kernel-with)|
@@ -317,6 +318,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| How To Truly Use The Train, Validation and Test Set |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/train-validation-test-set-correct-use.ipynb) | [🔗](https://avichawla.substack.com/p/how-to-truly-use-the-train-validation)|
 | The Advantages and Disadvantages of PCA To Consider Before Using It |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Adv-Disadv.ipynb) | [🔗](https://avichawla.substack.com/p/the-advantages-and-disadvantages)|
 | Loss Functions: An Algorithm-wise Comprehensive Summary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Algo-wise-Loss-Functions.ipynb) | [🔗](https://avichawla.substack.com/p/loss-functions-an-algorithm-wise)|
 | Is Data Normalization Always Necessary Before Training ML Models? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Normalization-Needed-Or-Not-Needed.ipynb) | [🔗](https://avichawla.substack.com/p/is-data-normalization-always-necessary)|
