@@ -101,6 +101,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Break the Linear Presentation of Notebooks With Stickyland |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/sticky-land.ipynb) | [🔗](https://avichawla.substack.com/p/break-the-linear-presentation-notebooks)|
 | Restart Jupyter Kernel Without Losing Variables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/store-magic-command.ipynb) | [🔗](https://avichawla.substack.com/p/restart-jupyter-kernel-without-losing)|
 | Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/annotate-data-pigeon.ipynb) | [🔗](https://avichawla.substack.com/p/annotate-data-with-the-click-of-a)|
 | Build Elegant Web Apps Right From Jupyter Notebook with Mercury |[🔗](https://github.com/ChawlaAvi/Mercury-Web-App) | [🔗](https://avichawla.substack.com/p/build-elegant-web-apps-right-from)|
@@ -127,6 +128,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Imports-Google-Styling-Guide.ipynb) | [🔗](https://avichawla.substack.com/p/what-does-the-google-styling-guide)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/for-loop-and-list-comprehension-diff.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-difference-between)|
 | Magic Methods: An Underrated Gem of Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/20-Magic-Methods.ipynb) | [🔗](https://avichawla.substack.com/p/magic-methods-an-underrated-gem-of)|
 | 9 Command Line Flags To Run Python Scripts More Flexibly |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Python-Flags.ipynb) | [🔗](https://avichawla.substack.com/p/9-command-line-flags-to-run-python)|
@@ -172,6 +174,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Waterfall Charts: A Better Alternative to Line/Bar Plot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Waterfall-Charts.ipynb) | [🔗](https://avichawla.substack.com/p/waterfall-charts-a-better-alternative-6df)| [🔗](https://medium.com/p/a3bab20d4872/)
 | Enrich Your Confusion Matrix With A Sankey Diagram |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Confusion-Matrix-Sankey.ipynb) | [🔗](https://avichawla.substack.com/p/enrich-your-confusion-matrix-with)|
 | A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bump-chart.ipynb) | [🔗](https://avichawla.substack.com/p/visualise-the-change-in-rank-over)|
 | Visualise The Change In Rank Over Time With Bump Charts |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://avichawla.substack.com/p/a-simple-one-liner-to-create-professional)|
@@ -237,6 +240,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Break the Linear Presentation of Notebooks With Stickyland |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/sticky-land.ipynb) | [🔗](https://avichawla.substack.com/p/break-the-linear-presentation-notebooks)|
 | Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data-pigeon.ipynb) | [🔗](https://avichawla.substack.com/p/annotate-data-with-the-click-of-a)|
 | Mito Just Got Supercharged With AI! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Text-to-Code-Jupyter.ipynb) | [🔗](https://avichawla.substack.com/p/mito-just-got-supercharged-with-ai)|
 | PyGWalker: Analyze Pandas Dataframe in Jupyter using a Tableau-style Interface |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Pandas-With-Tableau.ipynb) | [🔗](https://avichawla.substack.com/p/the-pandas-dataframe-extension-every)|
@@ -267,6 +271,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Most Sklearn Users Don't Know This About Its LinearRegression Implementation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://avichawla.substack.com/p/most-sklearn-users-dont-know-this)|
 | Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Codon-vs-Python.ipynb) | [🔗](https://avichawla.substack.com/p/probably-the-fastest-way-to-execute)|
 | Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://avichawla.substack.com/p/why-are-we-typically-advised-to-never)|
 | Speed-up Parquet I/O of Pandas by 5x |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Parquet-Optimize.ipynb) | [🔗](https://avichawla.substack.com/p/speed-up-parquet-io-of-pandas-by)|
@@ -284,6 +289,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Sklearn
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Most Sklearn Users Don't Know This About Its LinearRegression Implementation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://avichawla.substack.com/p/most-sklearn-users-dont-know-this)|
 | A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-on-Large-Datasets.ipynb) | [🔗](https://avichawla.substack.com/p/a-lesser-known-feature-of-sklearn)|
 | Sklearn One-liner to Generate Synthetic Data |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-Synthetic-Data.ipynb) | [🔗](https://avichawla.substack.com/p/sklearn-one-line-to-generate-synthetic)|
 | Skorch: Use Scikit-learn API on PyTorch Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Skorch.ipynb) | [🔗](https://avichawla.substack.com/p/skorch-use-scikit-learn-api-on-pytorch)|
@@ -318,6 +324,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://avichawla.substack.com/p/most-sklearn-users-dont-know-this)|
+| Visualize The Performance Of Any Linear Regression Model With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/LinearReg-Residual-Plot.ipynb) | [🔗](https://avichawla.substack.com/p/visualize-the-performance-of-any)|
 | How To Truly Use The Train, Validation and Test Set |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/train-validation-test-set-correct-use.ipynb) | [🔗](https://avichawla.substack.com/p/how-to-truly-use-the-train-validation)|
 | The Advantages and Disadvantages of PCA To Consider Before Using It |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/PCA-Adv-Disadv.ipynb) | [🔗](https://avichawla.substack.com/p/the-advantages-and-disadvantages)|
 | Loss Functions: An Algorithm-wise Comprehensive Summary |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Algo-wise-Loss-Functions.ipynb) | [🔗](https://avichawla.substack.com/p/loss-functions-an-algorithm-wise)|
@@ -392,7 +400,3 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 |Title | Notebook | Substack | Video
 |--|:--:|:--:|:--:|
 | Visualizing The Data Transformation of a Neural Network |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Animations/Neural-Network-Visualization.ipynb) | [🔗](https://avichawla.substack.com/p/visualizing-the-data-transformation)|
-
-```bash
-
-```
