@@ -131,6 +131,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Improve Python Run-time Without Changing A Single Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pypy-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/improve-python-run-time-without-changing)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Imports-Google-Styling-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-does-the-google-styling-guide)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/for-loop-and-list-comprehension-diff.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-lesser-known-difference-between)|
 | Magic Methods: An Underrated Gem of Python OOP |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/20-Magic-Methods.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/magic-methods-an-underrated-gem-of)|
