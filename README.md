@@ -328,6 +328,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Ultimate Categorization of Clustering Algorithms |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Clustering-algo-types.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-ultimate-categorization-of-clustering)|
 | A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
 | Visualize The Performance Of Any Linear Regression Model With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/LinearReg-Residual-Plot.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualize-the-performance-of-any)|
 | How To Truly Use The Train, Validation and Test Set |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/train-validation-test-set-correct-use.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/how-to-truly-use-the-train-validation)|
