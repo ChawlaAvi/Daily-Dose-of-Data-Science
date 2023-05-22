@@ -328,6 +328,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Highly Overlooked Point In The Implementation of Sigmoid Function |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sigmoid-Two-Variations.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-highly-overlooked-point-in-the)|
 | The Ultimate Categorization of Clustering Algorithms |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Clustering-algo-types.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-ultimate-categorization-of-clustering)|
 | A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
 | Visualize The Performance Of Any Linear Regression Model With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/LinearReg-Residual-Plot.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualize-the-performance-of-any)|
