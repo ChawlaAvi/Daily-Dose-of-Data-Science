@@ -328,6 +328,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Counterintuitive Behaviour of Training Accuracy and Training Loss |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Loss-Decrease-Accuracy-Decrease.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-counterintuitive-behaviour-of)|
 | A Highly Overlooked Point In The Implementation of Sigmoid Function |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sigmoid-Two-Variations.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-highly-overlooked-point-in-the)|
 | The Ultimate Categorization of Clustering Algorithms |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Clustering-algo-types.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-ultimate-categorization-of-clustering)|
 | A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
