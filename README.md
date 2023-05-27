@@ -329,6 +329,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Most Overlooked Problem With One-Hot Encoding |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Problem-With-One-Hot-Encoding.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-most-overlooked-problem-with)|
 | 9 Most Important Plots in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Most-Important-Plots.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/9-most-important-plots-in-data-science)|
 | Is Categorical Feature Encoding Always Necessary Before Training ML Models? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Categorical-Feature-Encoding-Needed-or-Not.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/is-categorical-feature-encoding-always)|
 | The Counterintuitive Behaviour of Training Accuracy and Training Loss |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Loss-Decrease-Accuracy-Decrease.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-counterintuitive-behaviour-of)|
