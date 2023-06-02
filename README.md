@@ -131,6 +131,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Execute Python Project Directory as a Script |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Execute-Directory-as-Script.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/execute-python-project-directory)|
 | Improve Python Run-time Without Changing A Single Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pypy-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/improve-python-run-time-without-changing)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Imports-Google-Styling-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-does-the-google-styling-guide)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/for-loop-and-list-comprehension-diff.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-lesser-known-difference-between)|
@@ -178,7 +179,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| Waterfall Charts: A Better Alternative to Line/Bar Plot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Waterfall-Charts.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/waterfall-charts-a-better-alternative-6df)| [🔗](https://medium.com/p/a3bab20d4872/)
+| Enrich Your Heatmaps With This Simple Trick |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Heatmaps-Scatter.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/enrich-your-heatmaps-with-this-simple)|
+| The Coolest Matplotlib Hack to Create Subplots Intuitively |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Mosaic-Subplots.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-coolest-matplotlib-hack-to-create)|
+| Waterfall Charts: A Better Alternative to Line/Bar Plot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Waterfall-Charts.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/waterfall-charts-a-better-alternative-6df)| [🔗](https://medium.com/p/a3bab20d4872/)|
 | Enrich Your Confusion Matrix With A Sankey Diagram |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Confusion-Matrix-Sankey.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/enrich-your-confusion-matrix-with)|
 | A Simple One-Liner to Create Professional Looking Matplotlib Plots |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Bump-chart.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualise-the-change-in-rank-over)|
 | Visualise The Change In Rank Over Time With Bump Charts |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/LovelyPlots-Professional-Matplotlib.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-simple-one-liner-to-create-professional)|
@@ -329,6 +332,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Visualize The Performance Of Linear Regression With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/QQ-Plot.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualize-the-performance-of-linear)|
+| Confidence Interval and Prediction Interval Are Not The Same |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Confidence-and-Prediction-Interval.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/confidence-interval-and-prediction)|
+| The Ultimate Categorization of Performance Metrics in ML |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Performance-Metrics-Categorization.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-ultimate-categorization-of-performance)|
 | The Most Overlooked Problem With One-Hot Encoding |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Problem-With-One-Hot-Encoding.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-most-overlooked-problem-with)|
 | 9 Most Important Plots in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Most-Important-Plots.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/9-most-important-plots-in-data-science)|
 | Is Categorical Feature Encoding Always Necessary Before Training ML Models? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Categorical-Feature-Encoding-Needed-or-Not.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/is-categorical-feature-encoding-always)|
