@@ -296,6 +296,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Sklearn
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Why Sklearn's Linear Regression Has No Hyperparameters? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Linear-Reg-Has-No-Hyperparameters.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/why-sklearns-linear-regression-has)|
 | Scikit-LLM: Integrate Sklearn API with Large Language Models |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/scikit-learn-LLM.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/scikit-llm-integrate-sklearn-api)|
 | Most Sklearn Users Don't Know This About Its LinearRegression Implementation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
 | A Lesser-Known Feature of Sklearn To Train Models on Large Datasets |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/Sklearn-on-Large-Datasets.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-lesser-known-feature-of-sklearn)|
