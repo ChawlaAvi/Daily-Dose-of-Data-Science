@@ -333,6 +333,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Reliable and Efficient Technique To Measure Feature Importance |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Permutation-Feature-Importance.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-reliable-and-efficient-technique)|
+| Does Every ML Algorithm Rely on Gradient Descent? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Does Every ML Algorithm Rely on Gradient Descent?.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/does-every-ml-algorithm-rely-on-gradient)|
 | Visualize The Performance Of Linear Regression With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/QQ-Plot.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualize-the-performance-of-linear)|
 | Confidence Interval and Prediction Interval Are Not The Same |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Confidence-and-Prediction-Interval.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/confidence-interval-and-prediction)|
 | The Ultimate Categorization of Performance Metrics in ML |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Performance-Metrics-Categorization.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-ultimate-categorization-of-performance)|
