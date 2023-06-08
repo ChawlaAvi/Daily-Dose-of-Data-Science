@@ -333,6 +333,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Nine Most Important Distributions in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Most-Important-Distributions-in-DS.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/nine-most-important-distributions)|
+| The Limitation of Linear Regression Which is Often Overlooked By Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-linear-regression)|
+| The Limitation of Linear Regression Which is Often Overlooked By Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-linear-regression)|
 | A Reliable and Efficient Technique To Measure Feature Importance |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Permutation-Feature-Importance.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-reliable-and-efficient-technique)|
 | Does Every ML Algorithm Rely on Gradient Descent? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Does Every ML Algorithm Rely on Gradient Descent?.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/does-every-ml-algorithm-rely-on-gradient)|
 | Visualize The Performance Of Linear Regression With This Simple Plot |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/QQ-Plot.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/visualize-the-performance-of-linear)|
