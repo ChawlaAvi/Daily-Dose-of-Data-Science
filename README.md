@@ -103,6 +103,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| 🚀 Jupyter Notebook + Spreadsheet + AI — All in One Place With Mito |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupyter-MitoAI.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/jupyter-notebook-spreadsheet-ai-all)|
 | The Coolest GitHub-Colab Integration You Would Ever See |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/GitHub-to-Colab.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-coolest-github-colab-integration)|
 | Break the Linear Presentation of Notebooks With Stickyland |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/sticky-land.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/break-the-linear-presentation-notebooks)|
 | Restart Jupyter Kernel Without Losing Variables |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/store-magic-command.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/restart-jupyter-kernel-without-losing)|
@@ -278,6 +279,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Limitation of KMeans Which Is Often Overlooked by Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Faiss.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-kmeans-which-is)|
 | Most Sklearn Users Don't Know This About Its LinearRegression Implementation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
 | Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Codon-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/probably-the-fastest-way-to-execute)|
 | Why Are We Typically Advised To Never Iterate Over A DataFrame? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Never-Iterate-Over-Pandas.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/why-are-we-typically-advised-to-never)|
@@ -333,6 +335,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Limitation of KMeans Which Is Often Overlooked by Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Faiss.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-kmeans-which-is)|
 | Nine Most Important Distributions in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Most-Important-Distributions-in-DS.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/nine-most-important-distributions)|
 | The Limitation of Linear Regression Which is Often Overlooked By Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-linear-regression)|
 | The Limitation of Linear Regression Which is Often Overlooked By Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-linear-regression)|
