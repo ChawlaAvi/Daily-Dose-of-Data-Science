@@ -46,6 +46,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Pandas vs Polars — Run-time and Memory Comparison |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Polars-vs-Pandas.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/pandas-vs-polars-run-time-and-memory)|
 | A Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Validate.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-lesser-known-feature-of-the-merge)|
 | A Highly Overlooked Approach To Analysing Pandas DataFrames |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Style-DF.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-highly-overlooked-approach-to-analysing)|
 | The Most Common Misconception About Inplace Operations in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/inplace-noninplace-runtime.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-most-common-misconception-about)|
@@ -132,6 +133,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Hidden Feature of a Popular String Method in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Startswith-Method-Lesser-Known-Functionality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-hidden-feature-of-a-popular-string)|
 | Execute Python Project Directory as a Script |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Execute-Directory-as-Script.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/execute-python-project-directory)|
 | Improve Python Run-time Without Changing A Single Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pypy-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/improve-python-run-time-without-changing)|
 | A Lesser-Known Difference Between For-Loops and List Comprehensions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Imports-Google-Styling-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-does-the-google-styling-guide)|
@@ -279,6 +281,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Run-time Optimization
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Pandas vs Polars — Run-time and Memory Comparison |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Polars-vs-Pandas.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/pandas-vs-polars-run-time-and-memory)|
 | The Limitation of KMeans Which Is Often Overlooked by Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Faiss.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-kmeans-which-is)|
 | Most Sklearn Users Don't Know This About Its LinearRegression Implementation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Sklearn/LinearReg-vs-SGDRegressor.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/most-sklearn-users-dont-know-this)|
 | Probably The Fastest Way To Execute Your Python Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Run-time%20Optimization/Codon-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/probably-the-fastest-way-to-execute)|
@@ -335,6 +338,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Try This If Your Linear Regression Model is Underperforming |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Transformation-for-Normality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/try-this-if-your-linear-regression)|
 | The Limitation of KMeans Which Is Often Overlooked by Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Faiss.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-kmeans-which-is)|
 | Nine Most Important Distributions in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Most-Important-Distributions-in-DS.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/nine-most-important-distributions)|
 | The Limitation of Linear Regression Which is Often Overlooked By Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Linear-Regression-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-linear-regression)|
