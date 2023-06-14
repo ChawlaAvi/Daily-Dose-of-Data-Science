@@ -230,7 +230,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](Speedup-NumPy-with-Bottleneck)|
+| Beware of This Unexpected Behaviour of NumPy Methods |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/NaN-output.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/beware-of-this-unexpected-behaviour)|
+| Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/speedup-numpy-methods-25x-with-bottleneck)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/speed-up-numpy-20x-with-numexpr)|
 |An Elegant Way To Perform Matrix Multiplication |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Matrix-Multiplcation-Operator.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/an-elegant-way-to-perform-matrix)|
 |Difference Between Dot and Matmul in NumPy |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Dot-and-Matmul.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/dot-and-matmul-difference)|
