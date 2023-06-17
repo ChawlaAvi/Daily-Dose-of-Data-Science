@@ -230,6 +230,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Major Limitation of NumPy Which Most Users Aren't Aware Of |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/speed-up-numpy-20x-with-numexpr)|
 | Beware of This Unexpected Behaviour of NumPy Methods |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/NaN-output.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/beware-of-this-unexpected-behaviour)|
 | Speedup NumPy Methods 25x With Bottleneck |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speedup-NumPy-with-Bottleneck.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/speedup-numpy-methods-25x-with-bottleneck)|
 | Speed-up NumPy 20x with Numexpr |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/NumPy/Speed-up-NumPy.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/speed-up-numpy-20x-with-numexpr)|
@@ -339,6 +340,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| The Limitations Of Elbow Curve And What You Should Replace It With |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Elbow-Curve-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitations-of-elbow-curve-and)|
+| 21 Most Important (and Must-know) Mathematical Equations in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Important-Equations.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)|
 | Try This If Your Linear Regression Model is Underperforming |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Transformation-for-Normality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/try-this-if-your-linear-regression)|
 | The Limitation of KMeans Which Is Often Overlooked by Many |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/KMeans-Faiss.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitation-of-kmeans-which-is)|
 | Nine Most Important Distributions in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Most-Important-Distributions-in-DS.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/nine-most-important-distributions)|
