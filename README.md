@@ -133,6 +133,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| What Makes The Join() Method Blazingly Faster Than Iteration? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/String-Join-vs-Iterate.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-makes-the-join-method-blazingly)|
 | A Hidden Feature of a Popular String Method in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Startswith-Method-Lesser-Known-Functionality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-hidden-feature-of-a-popular-string)|
 | Execute Python Project Directory as a Script |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Execute-Directory-as-Script.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/execute-python-project-directory)|
 | Improve Python Run-time Without Changing A Single Line of Code |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Pypy-vs-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/improve-python-run-time-without-changing)|
