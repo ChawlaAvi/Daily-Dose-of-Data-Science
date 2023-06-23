@@ -133,6 +133,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| How To Enforce Type Hints in Python? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Enforce-Type-Hints.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/how-to-enforce-type-hints-in-python)|
+| A Common Misconception About Deleting Objects in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Delete-Object-Misconception.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-common-misconception-about-deleting)|
 | What Makes The Join() Method Blazingly Faster Than Iteration? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/String-Join-vs-Iterate.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-makes-the-join-method-blazingly)|
 | A Hidden Feature of a Popular String Method in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Startswith-Method-Lesser-Known-Functionality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-hidden-feature-of-a-popular-string)|
 | Execute Python Project Directory as a Script |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Execute-Directory-as-Script.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/execute-python-project-directory)|
@@ -341,6 +343,9 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| A Visual and Overly Simplified Guide To Bagging and Boosting |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Bagging-and-Boosting-Visual-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-visual-and-overly-simplified-guide-4b1)
+| 10 Most Common (and Must-Know) Loss Functions in ML |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Regression-Classification-Loss-Functions.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/10-most-common-and-must-know-loss)|
+| Theil-Sen Regression: The Robust Twin of Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Theil-Sen-Regression.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/theil-sen-regression-the-robust-twin)|
 | The Limitations Of Elbow Curve And What You Should Replace It With |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Elbow-Curve-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitations-of-elbow-curve-and)|
 | 21 Most Important (and Must-know) Mathematical Equations in Data Science |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Important-Equations.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/21-most-important-and-must-know-mathematical)|
 | Try This If Your Linear Regression Model is Underperforming |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Data-Transformation-for-Normality.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/try-this-if-your-linear-regression)|
