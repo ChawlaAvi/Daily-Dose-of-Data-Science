@@ -46,6 +46,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| One-Minute Guide To Becoming a Polars-savvy Data Scientist |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-to-Polars.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/one-minute-guide-to-becoming-a-polars)|
+| Avoid Using Pandas' Apply() Method At All Times |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Best-Pandas-Apply.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/avoid-using-pandas-apply-method-at)|
 | Pandas vs Polars — Run-time and Memory Comparison |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Polars-vs-Pandas.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/pandas-vs-polars-run-time-and-memory)|
 | A Lesser-Known Feature of the Merge Method in Pandas |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Pandas-Merge-Validate.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-lesser-known-feature-of-the-merge)|
 | A Highly Overlooked Approach To Analysing Pandas DataFrames |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/Style-DF.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-highly-overlooked-approach-to-analysing)|
@@ -104,6 +106,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Declutter Your Jupyter Notebook Using Interactive Controls |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Interactive-Controls.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/declutter-your-jupyter-notebook-using)|
 | 🚀 Jupyter Notebook + Spreadsheet + AI — All in One Place With Mito |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/Jupyter-MitoAI.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/jupyter-notebook-spreadsheet-ai-all)|
 | The Coolest GitHub-Colab Integration You Would Ever See |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/GitHub-to-Colab.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-coolest-github-colab-integration)|
 | Break the Linear Presentation of Notebooks With Stickyland |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/sticky-land.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/break-the-linear-presentation-notebooks)|
@@ -133,6 +136,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| 7 Elegant Usages of Underscore in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Underscores-in-Python.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/7-elegant-usages-of-underscore-in)|
 | How To Enforce Type Hints in Python? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Enforce-Type-Hints.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/how-to-enforce-type-hints-in-python)|
 | A Common Misconception About Deleting Objects in Python |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/Delete-Object-Misconception.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-common-misconception-about-deleting)|
 | What Makes The Join() Method Blazingly Faster Than Iteration? |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Python/String-Join-vs-Iterate.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/what-makes-the-join-method-blazingly)|
@@ -185,6 +189,8 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| Don't Overuse Scatter, Line and Bar Plots. Try These Four Elegant Alternatives. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Scatter-Bar-Line-Alternatives.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/dont-overuse-scatter-line-and-bar)|
+| Sankey Diagrams: An Underrated Gem of Data Visualization |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Flow-Diagram.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/sankey-diagrams-an-underrated-gem)|
 | Enrich Your Heatmaps With This Simple Trick |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Heatmaps-Scatter.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/enrich-your-heatmaps-with-this-simple)|
 | The Coolest Matplotlib Hack to Create Subplots Intuitively |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Mosaic-Subplots.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-coolest-matplotlib-hack-to-create)|
 | Waterfall Charts: A Better Alternative to Line/Bar Plot|[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Plotting/Waterfall-Charts.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/waterfall-charts-a-better-alternative-6df)| [🔗](https://medium.com/p/a3bab20d4872/)|
@@ -255,6 +261,7 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Cool Tools
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
+| CNN Explainer: Interactively Visualize a Convolutional Neural Network |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/CNN-explainer.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/cnn-explainer-interactively-visualize)|
 | Break the Linear Presentation of Notebooks With Stickyland |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Jupyter%20Tips/sticky-land.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/break-the-linear-presentation-notebooks)|
 | Annotate Data With The Click Of A Button Using Pigeon |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/annotate-data-pigeon.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/annotate-data-with-the-click-of-a)|
 | Mito Just Got Supercharged With AI! |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Cool%20Tools/Text-to-Code-Jupyter.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/mito-just-got-supercharged-with-ai)|
@@ -343,7 +350,14 @@ git clone https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science
 ## Machine Learning
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
-| A Visual and Overly Simplified Guide To Bagging and Boosting |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Bagging-and-Boosting-Visual-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-visual-and-overly-simplified-guide-4b1)
+| Decision Trees ALWAYS Overfit. Here's A Lesser-Known Technique To Prevent It. |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Decision-Tree-Overfit.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/decision-trees-always-overfit-heres)| 
+| Evaluate Clustering Performance Without Ground Truth Labels |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Clustering-Evaluation-Without-Labels.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/evaluate-clustering-performance-without)| 
+| The Most Common Misconception About Continuous Probability Distributions |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Continuous-Probability-Distribution-Misconception.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-most-common-misconception-about-470)| 
+| A Common Misconception About Feature Scaling and Standardization |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Scaling-Standardization-Misconception.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-common-misconception-about-feature)| 
+| Random Forest May Not Need An Explicit Validation Set For Evaluation |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Out-of-Bag-Random-Forest.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/random-forest-may-not-need-an-explicit)| 
+| A Visual and Overly Simplified Guide To Bagging and Boosting |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Bagging-Boosting-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-visual-and-overly-simplified-guide-4b1)| 
+| 10 Most Common (and Must-Know) Loss Functions in ML |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Most-Common-Loss-Functions.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/10-most-common-and-must-know-loss) | 
+| A Visual and Overly Simplified Guide To Bagging and Boosting |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Bagging-and-Boosting-Visual-Guide.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/a-visual-and-overly-simplified-guide-4b1) | 
 | 10 Most Common (and Must-Know) Loss Functions in ML |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Regression-Classification-Loss-Functions.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/10-most-common-and-must-know-loss)|
 | Theil-Sen Regression: The Robust Twin of Linear Regression |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Theil-Sen-Regression.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/theil-sen-regression-the-robust-twin)|
 | The Limitations Of Elbow Curve And What You Should Replace It With |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Machine%20Learning/Elbow-Curve-Limitation.ipynb) | [🔗](https://www.blog.dailydoseofds.com/p/the-limitations-of-elbow-curve-and)|
