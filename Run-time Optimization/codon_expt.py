@@ -1,9 +1,7 @@
 import time
 
 def fib(n):
-    if n<=1:
-        return 1
-    return fib(n-1) + fib(n-2)
+    return 1 if n<=1 else fib(n-1) + fib(n-2)
 
 def approximate_pi(num_terms):
     """
