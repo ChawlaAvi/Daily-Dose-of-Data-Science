@@ -1,0 +1,144 @@
+guest_email,hotel_id,has_rewards,room_type,amenities_fee,checkin_date,checkout_date,room_rate,billing_address,credit_card_number
+awolf@phillips.com,HID_000,False,BASIC,37.89,27 Dec 2020,28 Dec 2020,156.23,"993 Rebecca Landing
+Jesseburgh, PA 05072",4075084747483975747
+tonya44@wilkinson-wilkins.com,HID_000,False,BASIC,24.37,30 Dec 2020,31 Dec 2020,139.43,"958 Beverly Bypass
+South Ronald, GA 46368",180072822063468
+harriskathleen@goodwin.com,HID_000,True,DELUXE,0.0,17 Sep 2020,19 Sep 2020,403.33,"8302 Nathaniel Pike
+Rileyland, TX 71613",38983476971380
+kayladiaz@wallace-simmons.com,HID_000,False,BASIC,,28 Dec 2020,30 Dec 2020,140.61,"77 Massachusetts Ave
+Cambridge, MA 02139",4969551998845740
+paigemendoza@tran-martin.com,HID_000,True,DELUXE,0.0,05 Apr 2020,10 Apr 2020,197.41,"1234 Corporate Drive
+Boston, MA 02116",3558512986488983
+alexanderparker@robinson.com,HID_000,True,BASIC,0.0,18 Oct 2020,19 Oct 2020,197.76,"888 Little Stream
+Lake Annmouth, ME 16402",4701079720447404938
+donald84@owens-arnold.org,HID_000,True,BASIC,0.0,22 Nov 2020,24 Nov 2020,108.09,"0156 Russell Trail Apt. 291
+Port Scottchester, IA 23231",6011956907055260
+keithbarnes@elliott-haley.com,HID_000,False,BASIC,16.45,04 Mar 2020,08 Mar 2020,136.12,"Unit 5037 Box 8794
+DPO AP 31934",4266279461142102517
+petermorton@garcia.biz,HID_000,False,BASIC,19.56,06 Jan 2020,09 Jan 2020,149.23,"583 Lewis Burgs
+Port Jessetown, WI 21902",4779208902549
+mark93@good-ramirez.biz,HID_000,False,BASIC,15.23,22 Jan 2020,,139.44,"54238 Mcgee Crescent
+Briantown, WY 72770",676384499254
+andrea71@johnson-chen.com,HID_000,False,BASIC,,15 Jun 2020,17 Jun 2020,131.09,"0910 Casey Land
+Tammyville, TX 36463",3576959406725080
+brian51@bowman-brooks.com,HID_000,False,BASIC,37.1,23 Oct 2020,25 Oct 2020,141.36,"329 Deborah Via
+Nataliehaven, MO 87399",675991525725
+pwilliams@cline.com,HID_000,False,BASIC,14.55,07 Mar 2020,12 Mar 2020,139.03,"904 Hines Rue
+Port Gregory, MN 66236",4092078584581
+banthony@jackson.biz,HID_000,False,BASIC,4.54,12 Aug 2020,14 Aug 2020,161.73,"862 Mueller Creek Apt. 492
+Whiteland, WY 55940",4483421863642
+hicksdiana@carpenter.net,HID_000,True,BASIC,0.0,01 Oct 2020,03 Oct 2020,103.8,"954 Taylor Burgs
+Port Steveton, OR 26243",4253047975942
+stevenscharlene@anderson.com,HID_000,False,BASIC,8.15,19 Jul 2020,21 Jul 2020,134.97,"4084 Heather Locks Apt. 091
+Blackwellport, GA 62060",563273068871
+margaret57@rodriguez.com,HID_000,False,DELUXE,17.94,14 Jul 2020,16 Jul 2020,282.27,"8302 Nathaniel Pike
+Rileyland, TX 71613",3509825543444962
+leehelen@valencia.info,HID_000,False,BASIC,9.76,02 Mar 2020,07 Mar 2020,253.68,"19711 Alvarado Route
+East Lori, AR 26670",3559348543878898
+dayers@bennett-ponce.com,HID_000,True,SUITE,0.0,16 Jul 2020,17 Jul 2020,254.43,"8594 Brian Lake Apt. 682
+East Lisafort, MT 74116",2247314498652894
+gracemorales@may.info,HID_000,True,BASIC,0.0,31 May 2020,02 Jun 2020,138.28,"8302 Nathaniel Pike
+Rileyland, TX 71613",2290513662982427
+whitestephen@moreno-clark.com,HID_000,False,BASIC,12.87,30 May 2020,01 Jun 2020,132.53,"77 Massachusetts Ave
+Cambridge, MA 02139",180065036602337
+elizabeth14@harrington.net,HID_000,False,BASIC,12.31,13 Oct 2020,17 Oct 2020,133.53,"Unit 8361 Box 9968
+DPO AE 57371",4670439786825211106
+ericayoung@neal.com,HID_000,False,BASIC,17.7,22 May 2020,24 May 2020,133.4,"502 Grant Spring Apt. 915
+Patriciaport, VA 24312",4249793726653
+heidi94@lopez.com,HID_000,False,BASIC,7.56,13 Sep 2020,15 Sep 2020,138.16,"329 Deborah Via
+Nataliehaven, MO 87399",4010294825813198
+thomas68@harris.org,HID_000,False,BASIC,13.74,27 Jul 2020,30 Jul 2020,179.4,"3826 Rowe Mission Suite 167
+Jenniferhaven, CO 17091",213108431357494
+tiffany07@johnson.org,HID_000,False,BASIC,10.76,30 Nov 2020,02 Dec 2020,165.95,"1753 Anna Circles Suite 976
+West Amanda, GA 44322",30213206437256
+phillipsjay@pineda-bender.com,HID_000,True,BASIC,0.0,26 Aug 2020,28 Aug 2020,121.31,"1234 Corporate Drive
+Boston, MA 02116",4551878586989
+millerrichard@robinson.com,HID_000,True,BASIC,0.0,05 Jul 2020,06 Jul 2020,113.97,"PSC 3637, Box 6528
+APO AP 00600",343863920293179
+xjohnson@baird.com,HID_000,True,BASIC,0.0,08 Dec 2020,11 Dec 2020,120.15,"0215 Chase Roads Suite 951
+Port Joshua, MS 80335",571167792928
+daniel92@gonzalez.com,HID_000,False,BASIC,9.76,05 Nov 2020,07 Nov 2020,143.07,"5678 Office Road
+San Francisco, CA 94103",4704147652368811480
+ucastaneda@mitchell.com,HID_000,True,DELUXE,0.0,03 Dec 2020,04 Dec 2020,219.39,"Unit 8361 Box 9968
+DPO AE 57371",4104817616762
+christinesingh@pena.info,HID_000,False,BASIC,3.77,05 May 2020,07 May 2020,135.68,"4758 Parsons Camp
+Lake Annettehaven, DC 78176",2255876870833937
+dillonmiranda@west.net,HID_000,False,BASIC,26.47,14 Nov 2020,15 Nov 2020,144.96,"5678 Office Road
+San Francisco, CA 94103",4196831074465
+whitneychen@taylor.com,HID_000,False,BASIC,14.03,11 Aug 2020,16 Aug 2020,143.15,"82622 Christopher Skyway Apt. 066
+Hopkinsview, SC 55350",4372475126552
+mduncan@mullins.info,HID_000,False,BASIC,,11 Aug 2020,14 Aug 2020,144.06,"977 Valentine Corner
+North Davidmouth, VT 07522",4484017750569544
+rjackson@castillo.com,HID_000,False,BASIC,17.32,03 Oct 2020,04 Oct 2020,150.77,"Unit 8361 Box 9968
+DPO AE 57371",3563866109003415
+ramosjames@gregory.com,HID_000,False,BASIC,28.41,12 Jul 2020,16 Jul 2020,149.48,"454 Jennifer Port
+New Sandra, NY 05178",379626111119090
+vscott@beltran.com,HID_000,False,BASIC,30.86,28 Jan 2020,31 Jan 2020,201.31,"43645 Clark Landing
+West Williamtown, SC 77546",4026911632249
+lsteele@mendoza.biz,HID_000,True,BASIC,0.0,20 Feb 2020,22 Feb 2020,118.41,"5678 Office Road
+San Francisco, CA 94103",4942094262703149
+martinsydney@stone.net,HID_000,False,BASIC,7.92,18 May 2020,21 May 2020,220.73,"0215 Chase Roads Suite 951
+Port Joshua, MS 80335",586471481935
+coreymurray@duran-martinez.com,HID_000,False,SUITE,32.68,21 Jan 2020,23 Jan 2020,327.29,"9726 Amber Station
+East Keithland, ND 56091",4506717789672128364
+daniel57@marsh-shaw.com,HID_000,False,BASIC,13.02,13 Sep 2020,14 Sep 2020,137.46,"7105 Lauren Cliffs Suite 835
+Hartfurt, VT 96920",4495106062613062000
+lhart@lozano-rogers.biz,HID_000,False,DELUXE,19.13,05 Aug 2020,06 Aug 2020,240.96,"19711 Alvarado Route
+East Lori, AR 26670",2242995672400517
+alan08@jordan.info,HID_000,False,BASIC,27.45,04 Jul 2020,06 Jul 2020,153.66,"4084 Heather Locks Apt. 091
+Blackwellport, GA 62060",30277478142829
+michael29@bauer.org,HID_000,True,DELUXE,0.0,13 Jul 2020,15 Jul 2020,201.3,"41459 Sarah Ranch
+Floresview, ND 01693",4440004935964264
+daltonward@ingram.com,HID_000,False,BASIC,9.51,06 Sep 2020,07 Sep 2020,198.11,"74489 Simmons Trail
+Valdezstad, GA 17568",4799286980280913
+gtorres@mckinney-baker.com,HID_000,False,BASIC,,20 May 2020,22 May 2020,187.76,"3826 Rowe Mission Suite 167
+Jenniferhaven, CO 17091",30145483229883
+jameswelch@levine.biz,HID_000,False,BASIC,,11 May 2020,15 May 2020,157.93,"77 Massachusetts Ave
+Cambridge, MA 02139",30255137954032
+grantwendy@bird.com,HID_000,False,BASIC,15.64,26 Jun 2020,28 Jun 2020,139.35,"0215 Chase Roads Suite 951
+Port Joshua, MS 80335",4821889109737689
+jonathan12@white-payne.com,HID_000,True,SUITE,0.0,19 Aug 2020,21 Aug 2020,268.16,"0784 Todd Manors
+Jonesmouth, WY 42593",30240040028009
+wmorgan@mahoney-pope.info,HID_000,True,DELUXE,0.0,08 Apr 2020,10 Apr 2020,257.55,"0784 Todd Manors
+Jonesmouth, WY 42593",2349865661751281
+nmiller@jordan.com,HID_000,False,BASIC,16.23,09 Jun 2020,10 Jun 2020,150.06,"5678 Office Road
+San Francisco, CA 94103",3556805154473395
+ashleycollins@conner.com,HID_000,False,BASIC,6.68,01 Jan 2021,03 Jan 2021,130.42,"1234 Corporate Drive
+Boston, MA 02116",4153708178750118
+david07@ramirez-stanton.com,HID_000,False,DELUXE,22.27,04 Feb 2020,07 Feb 2020,228.83,"4322 Wilson Squares
+Matthewchester, HI 85123",180017311857920
+fbowman@weaver.com,HID_000,False,BASIC,38.21,13 Sep 2020,16 Sep 2020,136.27,"958 Beverly Bypass
+South Ronald, GA 46368",4016023549459142452
+hbryan@george.com,HID_000,True,BASIC,0.0,09 May 2020,11 May 2020,163.57,"329 Deborah Via
+Nataliehaven, MO 87399",4847818679193
+markthomas@johnson.com,HID_000,False,BASIC,23.61,16 Aug 2020,18 Aug 2020,143.04,"1234 Corporate Drive
+Boston, MA 02116",2294477661503079
+brownmartha@armstrong.com,HID_000,True,BASIC,0.0,13 Oct 2020,16 Oct 2020,292.5,"958 Beverly Bypass
+South Ronald, GA 46368",180064426198428
+kimberlyrandolph@mueller-pratt.org,HID_000,False,SUITE,25.01,05 Jun 2020,07 Jun 2020,351.23,"4152 Alyssa Dale Suite 100
+Port Joshua, UT 45333",3556723727485418
+abrewer@martin.com,HID_000,False,SUITE,27.51,10 Mar 2020,12 Mar 2020,335.26,"54238 Mcgee Crescent
+Briantown, WY 72770",2669631248945594
+ehall@smith-stewart.com,HID_000,True,SUITE,0.0,25 Jun 2020,27 Jun 2020,262.99,"PSC 7921, Box 4282
+APO AA 49483",3599849235456515
+suttonmelissa@sanchez.com,HID_000,False,BASIC,28.02,12 Oct 2020,14 Oct 2020,178.1,"4811 Mariah Center
+Port Timothyville, SD 37840",4462406877117731
+kelly01@young-aguilar.com,HID_000,False,BASIC,32.25,28 Dec 2020,30 Dec 2020,140.79,"5895 Rebecca Cliff
+East Elizabethhaven, NY 44803",349391012165075
+erin19@johnson.com,HID_000,False,BASIC,28.18,09 Jan 2020,11 Jan 2020,133.81,"1234 Corporate Drive
+Boston, MA 02116",4461033775093730
+christopherschaefer@lee.org,HID_000,True,BASIC,0.0,16 Jan 2020,19 Jan 2020,135.45,"54238 Mcgee Crescent
+Briantown, WY 72770",180095407605742
+wfreeman@webb.com,HID_000,False,BASIC,26.14,20 Jul 2020,22 Jul 2020,145.34,"2506 Christopher Lock
+Lake Paul, IL 17894",38651500078643
+christine70@lane-klein.com,HID_000,False,BASIC,11.62,14 Jun 2020,17 Jun 2020,190.96,"0215 Chase Roads Suite 951
+Port Joshua, MS 80335",38416070843739
+haley68@clark.com,HID_000,False,BASIC,,22 Dec 2020,24 Dec 2020,143.66,"941 Samantha Port
+North Ashley, DC 89806",2273379952126518
+fordterri@jackson-chambers.org,HID_000,False,SUITE,31.68,05 Jan 2020,08 Jan 2020,313.65,"6535 Andre Mountain Suite 741
+Melaniestad, VA 73781",372770926213149
+tbutler@hill.com,HID_000,False,BASIC,10.28,24 Aug 2020,27 Aug 2020,169.23,"285 Singh Via Suite 786
+Lake Ashley, AK 61126",676148456368
+raymondmoreno@hayes.biz,HID_000,False,BASIC,22.87,05 Jun 2020,07 Jun 2020,143.66,"Unit 8361 Box 9968
+DPO AE 57371",4104817616762
+
