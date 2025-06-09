@@ -1,0 +1,38 @@
+
+    ═══════════════════════════════════════════════════════════════
+                        HOTEL GUESTS ANALYSIS REPORT
+    ═══════════════════════════════════════════════════════════════
+    
+    📊 OVERVIEW METRICS
+    ─────────────────────────────────────────────────────────────
+    • Total Guests: 71
+    • Total Revenue: $13,563.06
+    • Average Room Rate: $178.54
+    • Average Amenities Fee: $13.65
+    • Average Length of Stay: 2.3 days
+    
+    🎯 KEY INSIGHTS
+    ─────────────────────────────────────────────────────────────
+    • Rewards Program Participation: 26.8%
+    • Most Popular Room Type: BASIC
+    • Peak Booking Month: July
+    
+    💡 BUSINESS RECOMMENDATIONS
+    ─────────────────────────────────────────────────────────────
+    1. REWARDS PROGRAM: 26.8% participation rate suggests 
+       opportunity to increase enrollment through targeted marketing.
+    
+    2. ROOM TYPE OPTIMIZATION: BASIC rooms are most popular - 
+       consider inventory allocation and pricing strategies.
+    
+    3. SEASONAL PLANNING: July shows highest booking volume - 
+       optimize staffing and pricing for peak periods.
+    
+    4. AMENITIES STRATEGY: Average amenities fee of $13.65 
+       indicates potential for revenue optimization through package deals.
+    
+    5. LENGTH OF STAY: Average stay of 2.3 days suggests 
+       opportunities for extended stay packages and loyalty incentives.
+    
+    ═══════════════════════════════════════════════════════════════
+    
